@@ -1,0 +1,3282 @@
+iso3,sdg_id,sdg_progress,sdg_status
+AFG,1,grey,
+ALB,1,yellow,On Track
+DZA,1,yellow,Moderately Increasing
+AND,1,grey,
+AGO,1,red,Decreasing
+ATG,1,grey,
+ARG,1,yellow,Moderately Increasing
+ARM,1,yellow,Moderately Increasing
+AUS,1,yellow,Moderately Increasing
+AUT,1,green,On Track
+AZE,1,green,On Track
+BHS,1,grey,
+BHR,1,grey,
+BGD,1,orange,On Track
+BRB,1,yellow,Stagnating
+BLR,1,green,On Track
+BEL,1,green,On Track
+BLZ,1,red,Decreasing
+BEN,1,red,Stagnating
+BTN,1,yellow,Moderately Increasing
+BOL,1,yellow,Moderately Increasing
+BIH,1,green,On Track
+BWA,1,red,Stagnating
+BRA,1,yellow,Stagnating
+BRN,1,grey,
+BGR,1,green,On Track
+BFA,1,red,Stagnating
+BDI,1,red,Decreasing
+CPV,1,orange,Moderately Increasing
+KHM,1,orange,Moderately Increasing
+CMR,1,red,Stagnating
+CAN,1,yellow,On Track
+CAF,1,red,Stagnating
+TCD,1,red,Decreasing
+CHL,1,yellow,On Track
+CHN,1,green,On Track
+COL,1,orange,Decreasing
+COM,1,red,Stagnating
+COD,1,red,Stagnating
+COG,1,red,Decreasing
+CRI,1,orange,Moderately Increasing
+CIV,1,red,Moderately Increasing
+HRV,1,green,On Track
+CUB,1,grey,
+CYP,1,green,On Track
+CZE,1,green,On Track
+DNK,1,green,On Track
+DJI,1,orange,Moderately Increasing
+DMA,1,grey,
+DOM,1,green,On Track
+ECU,1,orange,Decreasing
+EGY,1,orange,Stagnating
+SLV,1,yellow,On Track
+GNQ,1,grey,
+ERI,1,grey,
+EST,1,yellow,Moderately Increasing
+SWZ,1,red,Stagnating
+ETH,1,orange,On Track
+FJI,1,yellow,Moderately Increasing
+FIN,1,green,On Track
+FRA,1,green,On Track
+GAB,1,orange,Stagnating
+GMB,1,orange,Moderately Increasing
+GEO,1,yellow,On Track
+DEU,1,green,On Track
+GHA,1,orange,Moderately Increasing
+GRC,1,yellow,On Track
+GRD,1,grey,
+GTM,1,orange,Moderately Increasing
+GIN,1,red,Decreasing
+GNB,1,red,Stagnating
+GUY,1,yellow,On Track
+HTI,1,red,Stagnating
+HND,1,red,Stagnating
+HUN,1,green,On Track
+ISL,1,green,On Track
+IND,1,orange,Moderately Increasing
+IDN,1,orange,Moderately Increasing
+IRN,1,yellow,Moderately Increasing
+IRQ,1,orange,Decreasing
+IRL,1,green,On Track
+ISR,1,orange,On Track
+ITA,1,yellow,Moderately Increasing
+JAM,1,yellow,Stagnating
+JPN,1,yellow,On Track
+JOR,1,green,On Track
+KAZ,1,green,On Track
+KEN,1,red,Stagnating
+KIR,1,grey,
+PRK,1,grey,
+KOR,1,yellow,Moderately Increasing
+KWT,1,grey,
+KGZ,1,yellow,Moderately Increasing
+LAO,1,orange,Moderately Increasing
+LVA,1,yellow,Moderately Increasing
+LBN,1,green,On Track
+LSO,1,red,Stagnating
+LBR,1,red,Stagnating
+LBY,1,grey,
+LIE,1,grey,
+LTU,1,yellow,Moderately Increasing
+LUX,1,yellow,On Track
+MDG,1,red,Stagnating
+MWI,1,red,Stagnating
+MYS,1,green,On Track
+MDV,1,green,On Track
+MLI,1,red,Stagnating
+MLT,1,green,On Track
+MHL,1,grey,
+MRT,1,orange,Moderately Increasing
+MUS,1,green,On Track
+MEX,1,orange,Moderately Increasing
+FSM,1,grey,
+MDA,1,green,On Track
+MCO,1,grey,
+MNG,1,yellow,On Track
+MNE,1,yellow,On Track
+MAR,1,yellow,Moderately Increasing
+MOZ,1,red,Stagnating
+MMR,1,orange,Moderately Increasing
+NAM,1,red,Decreasing
+NRU,1,grey,
+NPL,1,orange,Moderately Increasing
+NLD,1,green,On Track
+NZL,1,yellow,On Track
+NIC,1,yellow,Stagnating
+NER,1,red,Stagnating
+NGA,1,red,Decreasing
+MKD,1,yellow,On Track
+NOR,1,green,On Track
+OMN,1,grey,
+PAK,1,orange,Stagnating
+PLW,1,grey,
+PAN,1,yellow,Moderately Increasing
+PNG,1,red,Stagnating
+PRY,1,yellow,On Track
+PER,1,yellow,Moderately Increasing
+PHL,1,orange,Moderately Increasing
+POL,1,green,On Track
+PRT,1,yellow,On Track
+QAT,1,grey,
+ROU,1,yellow,On Track
+RUS,1,green,On Track
+RWA,1,red,Stagnating
+WSM,1,yellow,Moderately Increasing
+SMR,1,grey,
+STP,1,red,Stagnating
+SAU,1,grey,
+SEN,1,red,Stagnating
+SRB,1,green,On Track
+SYC,1,grey,
+SLE,1,red,Stagnating
+SGP,1,green,On Track
+SVK,1,green,On Track
+SVN,1,green,On Track
+SLB,1,red,Stagnating
+SOM,1,red,Decreasing
+ZAF,1,red,Decreasing
+SSD,1,red,Decreasing
+ESP,1,yellow,Moderately Increasing
+LKA,1,yellow,On Track
+KNA,1,grey,
+LCA,1,orange,Moderately Increasing
+VCT,1,grey,
+SDN,1,red,Decreasing
+SUR,1,orange,Decreasing
+SWE,1,green,On Track
+CHE,1,yellow,Moderately Increasing
+SYR,1,grey,
+TJK,1,yellow,On Track
+TZA,1,red,Stagnating
+THA,1,green,On Track
+TLS,1,red,Decreasing
+TGO,1,red,Stagnating
+TON,1,yellow,On Track
+TTO,1,green,On Track
+TUN,1,yellow,Moderately Increasing
+TUR,1,yellow,On Track
+TKM,1,yellow,Stagnating
+TUV,1,grey,
+UGA,1,red,Stagnating
+UKR,1,green,On Track
+ARE,1,green,On Track
+GBR,1,yellow,Moderately Increasing
+USA,1,orange,Moderately Increasing
+URY,1,green,On Track
+UZB,1,orange,Moderately Increasing
+VUT,1,red,Decreasing
+VEN,1,red,Decreasing
+VNM,1,yellow,On Track
+YEM,1,grey,
+ZMB,1,red,Decreasing
+ZWE,1,grey,
+AFG,2,red,Stagnating
+ALB,2,orange,Stagnating
+DZA,2,red,Moderately Increasing
+AND,2,yellow,Moderately Increasing
+AGO,2,red,Stagnating
+ATG,2,red,Stagnating
+ARG,2,red,Moderately Increasing
+ARM,2,orange,Stagnating
+AUS,2,red,Stagnating
+AUT,2,orange,Moderately Increasing
+AZE,2,orange,Stagnating
+BHS,2,red,Moderately Increasing
+BHR,2,red,Stagnating
+BGD,2,orange,Moderately Increasing
+BRB,2,orange,Moderately Increasing
+BLR,2,orange,Moderately Increasing
+BEL,2,orange,Moderately Increasing
+BLZ,2,orange,Stagnating
+BEN,2,red,Stagnating
+BTN,2,red,Moderately Increasing
+BOL,2,orange,Moderately Increasing
+BIH,2,orange,Stagnating
+BWA,2,red,Stagnating
+BRA,2,orange,Stagnating
+BRN,2,red,Stagnating
+BGR,2,orange,Moderately Increasing
+BFA,2,red,Stagnating
+BDI,2,red,Stagnating
+CPV,2,red,Stagnating
+KHM,2,orange,Moderately Increasing
+CMR,2,red,Stagnating
+CAN,2,orange,Moderately Increasing
+CAF,2,red,Stagnating
+TCD,2,red,Stagnating
+CHL,2,red,Moderately Increasing
+CHN,2,yellow,Moderately Increasing
+COL,2,orange,Stagnating
+COM,2,red,Stagnating
+COD,2,red,Stagnating
+COG,2,red,Stagnating
+CRI,2,red,Moderately Increasing
+CIV,2,red,Stagnating
+HRV,2,orange,Moderately Increasing
+CUB,2,orange,Moderately Increasing
+CYP,2,orange,Stagnating
+CZE,2,red,Moderately Increasing
+DNK,2,red,Moderately Increasing
+DJI,2,red,Stagnating
+DMA,2,red,Stagnating
+DOM,2,red,Stagnating
+ECU,2,red,Stagnating
+EGY,2,red,Moderately Increasing
+SLV,2,red,Moderately Increasing
+GNQ,2,red,Stagnating
+ERI,2,red,Stagnating
+EST,2,red,Moderately Increasing
+SWZ,2,red,Stagnating
+ETH,2,red,Stagnating
+FJI,2,red,Moderately Increasing
+FIN,2,orange,Moderately Increasing
+FRA,2,orange,Moderately Increasing
+GAB,2,red,Stagnating
+GMB,2,red,Stagnating
+GEO,2,orange,Stagnating
+DEU,2,orange,Moderately Increasing
+GHA,2,red,Stagnating
+GRC,2,orange,Moderately Increasing
+GRD,2,red,Stagnating
+GTM,2,red,Stagnating
+GIN,2,red,Stagnating
+GNB,2,red,Stagnating
+GUY,2,orange,Moderately Increasing
+HTI,2,red,Stagnating
+HND,2,red,Stagnating
+HUN,2,red,Stagnating
+ISL,2,orange,Moderately Increasing
+IND,2,red,Stagnating
+IDN,2,red,Moderately Increasing
+IRN,2,red,Moderately Increasing
+IRQ,2,red,Moderately Increasing
+IRL,2,red,Moderately Increasing
+ISR,2,red,Moderately Increasing
+ITA,2,orange,Moderately Increasing
+JAM,2,red,Stagnating
+JPN,2,orange,Moderately Increasing
+JOR,2,orange,Stagnating
+KAZ,2,red,Stagnating
+KEN,2,red,Stagnating
+KIR,2,red,Stagnating
+PRK,2,red,Stagnating
+KOR,2,orange,Moderately Increasing
+KWT,2,orange,Stagnating
+KGZ,2,orange,Stagnating
+LAO,2,red,Moderately Increasing
+LVA,2,red,Stagnating
+LBN,2,red,Stagnating
+LSO,2,red,Stagnating
+LBR,2,red,Stagnating
+LBY,2,red,Decreasing
+LIE,2,grey,
+LTU,2,red,Stagnating
+LUX,2,red,Moderately Increasing
+MDG,2,red,Stagnating
+MWI,2,red,Stagnating
+MYS,2,red,Stagnating
+MDV,2,red,Moderately Increasing
+MLI,2,red,Stagnating
+MLT,2,red,Moderately Increasing
+MHL,2,red,Decreasing
+MRT,2,red,Stagnating
+MUS,2,orange,Stagnating
+MEX,2,red,Stagnating
+FSM,2,grey,
+MDA,2,orange,Stagnating
+MCO,2,grey,
+MNG,2,red,Stagnating
+MNE,2,red,Stagnating
+MAR,2,red,Moderately Increasing
+MOZ,2,red,Stagnating
+MMR,2,orange,Moderately Increasing
+NAM,2,red,Stagnating
+NRU,2,red,Stagnating
+NPL,2,red,Moderately Increasing
+NLD,2,red,Moderately Increasing
+NZL,2,orange,Moderately Increasing
+NIC,2,red,Stagnating
+NER,2,red,Stagnating
+NGA,2,red,Stagnating
+MKD,2,orange,Moderately Increasing
+NOR,2,red,Stagnating
+OMN,2,red,Stagnating
+PAK,2,red,Stagnating
+PLW,2,orange,Stagnating
+PAN,2,red,Moderately Increasing
+PNG,2,red,Stagnating
+PRY,2,orange,Moderately Increasing
+PER,2,orange,Stagnating
+PHL,2,red,Moderately Increasing
+POL,2,orange,Moderately Increasing
+PRT,2,red,Moderately Increasing
+QAT,2,red,Moderately Increasing
+ROU,2,orange,Moderately Increasing
+RUS,2,orange,Stagnating
+RWA,2,red,Stagnating
+WSM,2,red,Stagnating
+SMR,2,grey,
+STP,2,orange,Stagnating
+SAU,2,red,Moderately Increasing
+SEN,2,red,Moderately Increasing
+SRB,2,orange,Moderately Increasing
+SYC,2,red,Stagnating
+SLE,2,red,Stagnating
+SGP,2,orange,Moderately Increasing
+SVK,2,red,Stagnating
+SVN,2,red,Moderately Increasing
+SLB,2,red,Stagnating
+SOM,2,red,Stagnating
+ZAF,2,red,Stagnating
+SSD,2,red,Stagnating
+ESP,2,red,Moderately Increasing
+LKA,2,red,Moderately Increasing
+KNA,2,orange,Stagnating
+LCA,2,orange,Stagnating
+VCT,2,orange,Moderately Increasing
+SDN,2,red,Stagnating
+SUR,2,orange,Stagnating
+SWE,2,red,Moderately Increasing
+CHE,2,orange,Moderately Increasing
+SYR,2,red,Stagnating
+TJK,2,red,Stagnating
+TZA,2,red,Stagnating
+THA,2,red,Stagnating
+TLS,2,red,Moderately Increasing
+TGO,2,red,Stagnating
+TON,2,red,Stagnating
+TTO,2,orange,Moderately Increasing
+TUN,2,red,Stagnating
+TUR,2,orange,Moderately Increasing
+TKM,2,red,Stagnating
+TUV,2,red,Stagnating
+UGA,2,red,Moderately Increasing
+UKR,2,orange,Moderately Increasing
+ARE,2,red,Stagnating
+GBR,2,red,Stagnating
+USA,2,red,Stagnating
+URY,2,orange,Moderately Increasing
+UZB,2,orange,Stagnating
+VUT,2,red,Stagnating
+VEN,2,red,Stagnating
+VNM,2,orange,Moderately Increasing
+YEM,2,red,Stagnating
+ZMB,2,red,Stagnating
+ZWE,2,red,Stagnating
+AFG,3,red,Stagnating
+ALB,3,orange,Moderately Increasing
+DZA,3,orange,Stagnating
+AND,3,grey,
+AGO,3,red,Stagnating
+ATG,3,yellow,Moderately Increasing
+ARG,3,orange,Stagnating
+ARM,3,orange,Moderately Increasing
+AUS,3,orange,Moderately Increasing
+AUT,3,orange,Moderately Increasing
+AZE,3,red,Moderately Increasing
+BHS,3,orange,Moderately Increasing
+BHR,3,orange,Moderately Increasing
+BGD,3,red,Moderately Increasing
+BRB,3,orange,Moderately Increasing
+BLR,3,orange,Moderately Increasing
+BEL,3,orange,Moderately Increasing
+BLZ,3,red,Moderately Increasing
+BEN,3,red,Stagnating
+BTN,3,red,Moderately Increasing
+BOL,3,red,Stagnating
+BIH,3,orange,Moderately Increasing
+BWA,3,red,Stagnating
+BRA,3,orange,Moderately Increasing
+BRN,3,orange,Moderately Increasing
+BGR,3,orange,Moderately Increasing
+BFA,3,red,Stagnating
+BDI,3,red,Moderately Increasing
+CPV,3,orange,Moderately Increasing
+KHM,3,red,Moderately Increasing
+CMR,3,red,Stagnating
+CAN,3,orange,Moderately Increasing
+CAF,3,red,Stagnating
+TCD,3,red,Stagnating
+CHL,3,orange,Moderately Increasing
+CHN,3,orange,Moderately Increasing
+COL,3,red,Moderately Increasing
+COM,3,red,Stagnating
+COD,3,red,Stagnating
+COG,3,red,Stagnating
+CRI,3,orange,Moderately Increasing
+CIV,3,red,Moderately Increasing
+HRV,3,yellow,On Track
+CUB,3,orange,Moderately Increasing
+CYP,3,orange,Moderately Increasing
+CZE,3,orange,Moderately Increasing
+DNK,3,yellow,Moderately Increasing
+DJI,3,red,Stagnating
+DMA,3,grey,
+DOM,3,red,Stagnating
+ECU,3,red,Moderately Increasing
+EGY,3,red,Moderately Increasing
+SLV,3,red,Moderately Increasing
+GNQ,3,red,Stagnating
+ERI,3,red,Moderately Increasing
+EST,3,orange,Moderately Increasing
+SWZ,3,red,Moderately Increasing
+ETH,3,red,Moderately Increasing
+FJI,3,red,Stagnating
+FIN,3,orange,Moderately Increasing
+FRA,3,orange,Moderately Increasing
+GAB,3,red,Stagnating
+GMB,3,red,Stagnating
+GEO,3,orange,Moderately Increasing
+DEU,3,orange,Moderately Increasing
+GHA,3,red,Stagnating
+GRC,3,yellow,On Track
+GRD,3,orange,Moderately Increasing
+GTM,3,red,Moderately Increasing
+GIN,3,red,Stagnating
+GNB,3,red,Stagnating
+GUY,3,red,Moderately Increasing
+HTI,3,red,Stagnating
+HND,3,red,Moderately Increasing
+HUN,3,orange,Moderately Increasing
+ISL,3,yellow,Moderately Increasing
+IND,3,red,Moderately Increasing
+IDN,3,red,Moderately Increasing
+IRN,3,red,Moderately Increasing
+IRQ,3,red,Moderately Increasing
+IRL,3,yellow,Moderately Increasing
+ISR,3,yellow,Moderately Increasing
+ITA,3,yellow,On Track
+JAM,3,orange,Moderately Increasing
+JPN,3,yellow,On Track
+JOR,3,red,Moderately Increasing
+KAZ,3,orange,Moderately Increasing
+KEN,3,red,Stagnating
+KIR,3,red,Moderately Increasing
+PRK,3,red,Moderately Increasing
+KOR,3,orange,Moderately Increasing
+KWT,3,orange,Moderately Increasing
+KGZ,3,orange,Moderately Increasing
+LAO,3,red,Moderately Increasing
+LVA,3,orange,Moderately Increasing
+LBN,3,red,Stagnating
+LSO,3,red,Stagnating
+LBR,3,red,Stagnating
+LBY,3,red,Stagnating
+LIE,3,grey,
+LTU,3,orange,Moderately Increasing
+LUX,3,yellow,Moderately Increasing
+MDG,3,red,Stagnating
+MWI,3,red,Moderately Increasing
+MYS,3,red,Moderately Increasing
+MDV,3,orange,Moderately Increasing
+MLI,3,red,Stagnating
+MLT,3,orange,Moderately Increasing
+MHL,3,grey,
+MRT,3,red,Stagnating
+MUS,3,orange,Moderately Increasing
+MEX,3,red,Moderately Increasing
+FSM,3,red,Moderately Increasing
+MDA,3,orange,Moderately Increasing
+MCO,3,grey,
+MNG,3,red,Moderately Increasing
+MNE,3,orange,Moderately Increasing
+MAR,3,red,Moderately Increasing
+MOZ,3,red,Stagnating
+MMR,3,red,Stagnating
+NAM,3,red,Moderately Increasing
+NRU,3,grey,
+NPL,3,red,Moderately Increasing
+NLD,3,yellow,Moderately Increasing
+NZL,3,yellow,Moderately Increasing
+NIC,3,red,Moderately Increasing
+NER,3,red,Stagnating
+NGA,3,red,Stagnating
+MKD,3,orange,Moderately Increasing
+NOR,3,yellow,Moderately Increasing
+OMN,3,orange,Moderately Increasing
+PAK,3,red,Stagnating
+PLW,3,grey,
+PAN,3,red,Moderately Increasing
+PNG,3,red,Stagnating
+PRY,3,red,Stagnating
+PER,3,red,Moderately Increasing
+PHL,3,red,Moderately Increasing
+POL,3,orange,Moderately Increasing
+PRT,3,yellow,Moderately Increasing
+QAT,3,orange,Moderately Increasing
+ROU,3,orange,Moderately Increasing
+RUS,3,orange,Moderately Increasing
+RWA,3,red,Moderately Increasing
+WSM,3,red,Stagnating
+SMR,3,grey,
+STP,3,red,Stagnating
+SAU,3,orange,Moderately Increasing
+SEN,3,red,Moderately Increasing
+SRB,3,orange,Moderately Increasing
+SYC,3,orange,Moderately Increasing
+SLE,3,red,Stagnating
+SGP,3,yellow,Moderately Increasing
+SVK,3,orange,Moderately Increasing
+SVN,3,yellow,Moderately Increasing
+SLB,3,red,Moderately Increasing
+SOM,3,red,Stagnating
+ZAF,3,red,Moderately Increasing
+SSD,3,red,Stagnating
+ESP,3,yellow,Moderately Increasing
+LKA,3,red,Moderately Increasing
+KNA,3,grey,
+LCA,3,orange,Stagnating
+VCT,3,orange,Moderately Increasing
+SDN,3,red,Stagnating
+SUR,3,red,Stagnating
+SWE,3,orange,Moderately Increasing
+CHE,3,orange,Moderately Increasing
+SYR,3,red,Moderately Increasing
+TJK,3,red,Moderately Increasing
+TZA,3,red,Stagnating
+THA,3,red,Moderately Increasing
+TLS,3,red,Moderately Increasing
+TGO,3,red,Moderately Increasing
+TON,3,red,Moderately Increasing
+TTO,3,yellow,Moderately Increasing
+TUN,3,orange,Moderately Increasing
+TUR,3,red,Moderately Increasing
+TKM,3,red,Stagnating
+TUV,3,grey,
+UGA,3,red,Moderately Increasing
+UKR,3,orange,Moderately Increasing
+ARE,3,yellow,Moderately Increasing
+GBR,3,orange,Moderately Increasing
+USA,3,orange,Moderately Increasing
+URY,3,orange,Moderately Increasing
+UZB,3,orange,Moderately Increasing
+VUT,3,red,Moderately Increasing
+VEN,3,red,Stagnating
+VNM,3,red,Moderately Increasing
+YEM,3,red,Stagnating
+ZMB,3,red,Stagnating
+ZWE,3,red,Stagnating
+AFG,4,red,Moderately Increasing
+ALB,4,yellow,Stagnating
+DZA,4,yellow,On Track
+AND,4,grey,
+AGO,4,red,
+ATG,4,green,On Track
+ARG,4,green,On Track
+ARM,4,orange,Moderately Increasing
+AUS,4,yellow,Moderately Increasing
+AUT,4,yellow,Moderately Increasing
+AZE,4,yellow,Moderately Increasing
+BHS,4,orange,
+BHR,4,yellow,Moderately Increasing
+BGD,4,yellow,On Track
+BRB,4,yellow,Moderately Increasing
+BLR,4,green,On Track
+BEL,4,orange,Moderately Increasing
+BLZ,4,red,Stagnating
+BEN,4,red,Decreasing
+BTN,4,orange,On Track
+BOL,4,yellow,Moderately Increasing
+BIH,4,orange,On Track
+BWA,4,orange,
+BRA,4,yellow,On Track
+BRN,4,green,On Track
+BGR,4,orange,Decreasing
+BFA,4,red,Moderately Increasing
+BDI,4,red,Stagnating
+CPV,4,orange,Decreasing
+KHM,4,orange,Moderately Increasing
+CMR,4,red,Decreasing
+CAN,4,green,On Track
+CAF,4,red,
+TCD,4,red,Decreasing
+CHL,4,orange,Moderately Increasing
+CHN,4,green,
+COL,4,orange,Moderately Increasing
+COM,4,red,
+COD,4,red,
+COG,4,red,
+CRI,4,red,Stagnating
+CIV,4,red,On Track
+HRV,4,green,On Track
+CUB,4,yellow,Moderately Increasing
+CYP,4,green,On Track
+CZE,4,yellow,Moderately Increasing
+DNK,4,yellow,Moderately Increasing
+DJI,4,red,Stagnating
+DMA,4,green,On Track
+DOM,4,yellow,Moderately Increasing
+ECU,4,yellow,Moderately Increasing
+EGY,4,orange,Moderately Increasing
+SLV,4,orange,Stagnating
+GNQ,4,red,
+ERI,4,red,Decreasing
+EST,4,green,On Track
+SWZ,4,red,Moderately Increasing
+ETH,4,red,Stagnating
+FJI,4,green,On Track
+FIN,4,green,On Track
+FRA,4,orange,Moderately Increasing
+GAB,4,orange,
+GMB,4,red,Stagnating
+GEO,4,yellow,On Track
+DEU,4,orange,Moderately Increasing
+GHA,4,orange,Moderately Increasing
+GRC,4,orange,Moderately Increasing
+GRD,4,green,On Track
+GTM,4,orange,Moderately Increasing
+GIN,4,red,Moderately Increasing
+GNB,4,red,
+GUY,4,yellow,
+HTI,4,grey,
+HND,4,orange,Moderately Increasing
+HUN,4,orange,Stagnating
+ISL,4,yellow,Moderately Increasing
+IND,4,yellow,Stagnating
+IDN,4,yellow,On Track
+IRN,4,orange,
+IRQ,4,red,
+IRL,4,yellow,Moderately Increasing
+ISR,4,orange,Stagnating
+ITA,4,orange,Stagnating
+JAM,4,orange,Decreasing
+JPN,4,green,On Track
+JOR,4,red,Stagnating
+KAZ,4,orange,Stagnating
+KEN,4,orange,Moderately Increasing
+KIR,4,yellow,Stagnating
+PRK,4,green,
+KOR,4,yellow,Moderately Increasing
+KWT,4,yellow,Moderately Increasing
+KGZ,4,yellow,On Track
+LAO,4,orange,Stagnating
+LVA,4,yellow,Moderately Increasing
+LBN,4,grey,
+LSO,4,red,Stagnating
+LBR,4,red,
+LBY,4,grey,
+LIE,4,green,On Track
+LTU,4,yellow,Moderately Increasing
+LUX,4,orange,Stagnating
+MDG,4,red,Decreasing
+MWI,4,red,On Track
+MYS,4,yellow,Moderately Increasing
+MDV,4,green,On Track
+MLI,4,red,Decreasing
+MLT,4,green,On Track
+MHL,4,red,Decreasing
+MRT,4,red,Moderately Increasing
+MUS,4,green,On Track
+MEX,4,orange,Moderately Increasing
+FSM,4,orange,Decreasing
+MDA,4,green,On Track
+MCO,4,grey,
+MNG,4,green,On Track
+MNE,4,yellow,Moderately Increasing
+MAR,4,orange,Moderately Increasing
+MOZ,4,red,Moderately Increasing
+MMR,4,red,On Track
+NAM,4,orange,On Track
+NRU,4,yellow,Stagnating
+NPL,4,yellow,Moderately Increasing
+NLD,4,yellow,Moderately Increasing
+NZL,4,yellow,Moderately Increasing
+NIC,4,orange,
+NER,4,red,Stagnating
+NGA,4,red,
+MKD,4,orange,Stagnating
+NOR,4,yellow,Moderately Increasing
+OMN,4,yellow,On Track
+PAK,4,red,Stagnating
+PLW,4,yellow,Stagnating
+PAN,4,red,Decreasing
+PNG,4,red,
+PRY,4,orange,Moderately Increasing
+PER,4,green,On Track
+PHL,4,yellow,Moderately Increasing
+POL,4,yellow,On Track
+PRT,4,yellow,Stagnating
+QAT,4,yellow,On Track
+ROU,4,yellow,Decreasing
+RUS,4,green,On Track
+RWA,4,red,Stagnating
+WSM,4,orange,Moderately Increasing
+SMR,4,yellow,
+STP,4,red,
+SAU,4,orange,Moderately Increasing
+SEN,4,red,Decreasing
+SRB,4,green,On Track
+SYC,4,green,On Track
+SLE,4,red,On Track
+SGP,4,green,On Track
+SVK,4,orange,Moderately Increasing
+SVN,4,yellow,Moderately Increasing
+SLB,4,red,Stagnating
+SOM,4,grey,
+ZAF,4,orange,Stagnating
+SSD,4,red,
+ESP,4,yellow,Moderately Increasing
+LKA,4,green,On Track
+KNA,4,yellow,
+LCA,4,yellow,Stagnating
+VCT,4,green,On Track
+SDN,4,red,Decreasing
+SUR,4,orange,Decreasing
+SWE,4,yellow,Moderately Increasing
+CHE,4,yellow,Moderately Increasing
+SYR,4,red,
+TJK,4,orange,
+TZA,4,red,Stagnating
+THA,4,yellow,On Track
+TLS,4,red,Moderately Increasing
+TGO,4,orange,Moderately Increasing
+TON,4,yellow,On Track
+TTO,4,yellow,
+TUN,4,orange,On Track
+TUR,4,orange,Moderately Increasing
+TKM,4,grey,
+TUV,4,orange,Stagnating
+UGA,4,red,
+UKR,4,orange,
+ARE,4,green,On Track
+GBR,4,yellow,Moderately Increasing
+USA,4,yellow,Moderately Increasing
+URY,4,green,On Track
+UZB,4,yellow,On Track
+VUT,4,orange,Moderately Increasing
+VEN,4,orange,
+VNM,4,green,On Track
+YEM,4,red,
+ZMB,4,orange,
+ZWE,4,red,Stagnating
+AFG,5,red,Stagnating
+ALB,5,orange,Moderately Increasing
+DZA,5,orange,Stagnating
+AND,5,green,On Track
+AGO,5,red,Stagnating
+ATG,5,grey,
+ARG,5,green,On Track
+ARM,5,orange,Moderately Increasing
+AUS,5,yellow,Moderately Increasing
+AUT,5,yellow,Moderately Increasing
+AZE,5,red,Stagnating
+BHS,5,yellow,Moderately Increasing
+BHR,5,orange,Stagnating
+BGD,5,orange,Stagnating
+BRB,5,orange,Moderately Increasing
+BLR,5,yellow,On Track
+BEL,5,yellow,On Track
+BLZ,5,orange,Moderately Increasing
+BEN,5,red,Stagnating
+BTN,5,red,Moderately Increasing
+BOL,5,orange,Moderately Increasing
+BIH,5,orange,Moderately Increasing
+BWA,5,orange,Moderately Increasing
+BRA,5,orange,Moderately Increasing
+BRN,5,orange,Moderately Increasing
+BGR,5,yellow,Moderately Increasing
+BFA,5,red,Stagnating
+BDI,5,red,Moderately Increasing
+CPV,5,orange,Moderately Increasing
+KHM,5,red,Stagnating
+CMR,5,red,Moderately Increasing
+CAN,5,orange,Moderately Increasing
+CAF,5,red,Stagnating
+TCD,5,red,Decreasing
+CHL,5,orange,Moderately Increasing
+CHN,5,orange,Moderately Increasing
+COL,5,orange,Stagnating
+COM,5,red,Stagnating
+COD,5,red,Moderately Increasing
+COG,5,red,Stagnating
+CRI,5,yellow,Moderately Increasing
+CIV,5,red,Stagnating
+HRV,5,orange,Moderately Increasing
+CUB,5,yellow,Stagnating
+CYP,5,yellow,Moderately Increasing
+CZE,5,orange,Moderately Increasing
+DNK,5,yellow,On Track
+DJI,5,red,Moderately Increasing
+DMA,5,grey,
+DOM,5,yellow,Moderately Increasing
+ECU,5,yellow,Moderately Increasing
+EGY,5,orange,Moderately Increasing
+SLV,5,yellow,Stagnating
+GNQ,5,red,Stagnating
+ERI,5,orange,Stagnating
+EST,5,orange,On Track
+SWZ,5,orange,Moderately Increasing
+ETH,5,orange,Stagnating
+FJI,5,orange,Stagnating
+FIN,5,yellow,Moderately Increasing
+FRA,5,yellow,Moderately Increasing
+GAB,5,red,Stagnating
+GMB,5,red,Moderately Increasing
+GEO,5,orange,Moderately Increasing
+DEU,5,yellow,Moderately Increasing
+GHA,5,red,Moderately Increasing
+GRC,5,orange,Moderately Increasing
+GRD,5,yellow,On Track
+GTM,5,red,Moderately Increasing
+GIN,5,red,Stagnating
+GNB,5,orange,Moderately Increasing
+GUY,5,orange,Moderately Increasing
+HTI,5,red,Stagnating
+HND,5,orange,Stagnating
+HUN,5,orange,Moderately Increasing
+ISL,5,yellow,Stagnating
+IND,5,red,Stagnating
+IDN,5,orange,Moderately Increasing
+IRN,5,red,Stagnating
+IRQ,5,red,Stagnating
+IRL,5,yellow,Moderately Increasing
+ISR,5,orange,Stagnating
+ITA,5,yellow,Moderately Increasing
+JAM,5,yellow,On Track
+JPN,5,red,Moderately Increasing
+JOR,5,red,Stagnating
+KAZ,5,yellow,Stagnating
+KEN,5,orange,Moderately Increasing
+KIR,5,red,Stagnating
+PRK,5,yellow,Moderately Increasing
+KOR,5,red,Moderately Increasing
+KWT,5,orange,Stagnating
+KGZ,5,orange,Stagnating
+LAO,5,orange,Moderately Increasing
+LVA,5,orange,Moderately Increasing
+LBN,5,red,Stagnating
+LSO,5,yellow,Moderately Increasing
+LBR,5,red,Stagnating
+LBY,5,red,Stagnating
+LIE,5,grey,
+LTU,5,orange,Moderately Increasing
+LUX,5,yellow,Moderately Increasing
+MDG,5,orange,Moderately Increasing
+MWI,5,orange,On Track
+MYS,5,red,Moderately Increasing
+MDV,5,red,Stagnating
+MLI,5,red,Moderately Increasing
+MLT,5,orange,Moderately Increasing
+MHL,5,orange,Decreasing
+MRT,5,red,Stagnating
+MUS,5,orange,Moderately Increasing
+MEX,5,yellow,On Track
+FSM,5,grey,
+MDA,5,orange,Moderately Increasing
+MCO,5,grey,
+MNG,5,orange,Moderately Increasing
+MNE,5,orange,Stagnating
+MAR,5,red,Stagnating
+MOZ,5,red,Moderately Increasing
+MMR,5,orange,Stagnating
+NAM,5,green,On Track
+NRU,5,red,Stagnating
+NPL,5,orange,Moderately Increasing
+NLD,5,yellow,Moderately Increasing
+NZL,5,green,On Track
+NIC,5,yellow,Moderately Increasing
+NER,5,red,Stagnating
+NGA,5,red,Moderately Increasing
+MKD,5,orange,Moderately Increasing
+NOR,5,green,On Track
+OMN,5,red,Stagnating
+PAK,5,red,Stagnating
+PLW,5,grey,
+PAN,5,orange,Moderately Increasing
+PNG,5,red,Stagnating
+PRY,5,orange,Moderately Increasing
+PER,5,orange,Moderately Increasing
+PHL,5,orange,Stagnating
+POL,5,yellow,Moderately Increasing
+PRT,5,yellow,On Track
+QAT,5,orange,Stagnating
+ROU,5,orange,Moderately Increasing
+RUS,5,orange,Moderately Increasing
+RWA,5,orange,Moderately Increasing
+WSM,5,red,Stagnating
+SMR,5,grey,
+STP,5,orange,Stagnating
+SAU,5,red,Moderately Increasing
+SEN,5,red,Stagnating
+SRB,5,orange,Moderately Increasing
+SYC,5,yellow,Decreasing
+SLE,5,red,Stagnating
+SGP,5,yellow,Moderately Increasing
+SVK,5,orange,Moderately Increasing
+SVN,5,yellow,Moderately Increasing
+SLB,5,red,Moderately Increasing
+SOM,5,red,Stagnating
+ZAF,5,yellow,On Track
+SSD,5,orange,Stagnating
+ESP,5,yellow,On Track
+LKA,5,red,Stagnating
+KNA,5,grey,
+LCA,5,orange,Moderately Increasing
+VCT,5,orange,Moderately Increasing
+SDN,5,red,Stagnating
+SUR,5,orange,Moderately Increasing
+SWE,5,green,On Track
+CHE,5,yellow,Moderately Increasing
+SYR,5,red,Decreasing
+TJK,5,orange,Stagnating
+TZA,5,orange,Moderately Increasing
+THA,5,orange,Moderately Increasing
+TLS,5,red,Stagnating
+TGO,5,red,Stagnating
+TON,5,red,Moderately Increasing
+TTO,5,orange,Stagnating
+TUN,5,orange,Stagnating
+TUR,5,red,Stagnating
+TKM,5,yellow,Decreasing
+TUV,5,red,Decreasing
+UGA,5,red,Stagnating
+UKR,5,orange,Moderately Increasing
+ARE,5,orange,Stagnating
+GBR,5,yellow,On Track
+USA,5,orange,Moderately Increasing
+URY,5,yellow,Moderately Increasing
+UZB,5,yellow,Moderately Increasing
+VUT,5,red,Stagnating
+VEN,5,orange,Stagnating
+VNM,5,orange,Moderately Increasing
+YEM,5,red,Stagnating
+ZMB,5,orange,Stagnating
+ZWE,5,yellow,Moderately Increasing
+AFG,6,red,Moderately Increasing
+ALB,6,orange,On Track
+DZA,6,orange,Stagnating
+AND,6,green,On Track
+AGO,6,red,Stagnating
+ATG,6,orange,
+ARG,6,orange,
+ARM,6,orange,On Track
+AUS,6,yellow,Moderately Increasing
+AUT,6,yellow,On Track
+AZE,6,orange,On Track
+BHS,6,red,Moderately Increasing
+BHR,6,red,On Track
+BGD,6,red,Moderately Increasing
+BRB,6,red,On Track
+BLR,6,orange,Moderately Increasing
+BEL,6,orange,On Track
+BLZ,6,red,Moderately Increasing
+BEN,6,red,Stagnating
+BTN,6,orange,Moderately Increasing
+BOL,6,red,Moderately Increasing
+BIH,6,orange,Stagnating
+BWA,6,orange,Moderately Increasing
+BRA,6,yellow,On Track
+BRN,6,red,On Track
+BGR,6,orange,Moderately Increasing
+BFA,6,red,Decreasing
+BDI,6,red,Stagnating
+CPV,6,orange,Moderately Increasing
+KHM,6,red,Moderately Increasing
+CMR,6,red,Stagnating
+CAN,6,yellow,Moderately Increasing
+CAF,6,red,Decreasing
+TCD,6,red,Stagnating
+CHL,6,yellow,On Track
+CHN,6,orange,On Track
+COL,6,red,Moderately Increasing
+COM,6,red,Stagnating
+COD,6,red,Decreasing
+COG,6,red,Stagnating
+CRI,6,red,Stagnating
+CIV,6,red,Stagnating
+HRV,6,yellow,On Track
+CUB,6,orange,Moderately Increasing
+CYP,6,orange,On Track
+CZE,6,yellow,On Track
+DNK,6,yellow,On Track
+DJI,6,red,Stagnating
+DMA,6,orange,
+DOM,6,orange,Moderately Increasing
+ECU,6,orange,On Track
+EGY,6,orange,On Track
+SLV,6,orange,Stagnating
+GNQ,6,red,
+ERI,6,red,
+EST,6,yellow,On Track
+SWZ,6,red,Stagnating
+ETH,6,red,Stagnating
+FJI,6,orange,Moderately Increasing
+FIN,6,yellow,Moderately Increasing
+FRA,6,orange,Moderately Increasing
+GAB,6,red,Stagnating
+GMB,6,red,Stagnating
+GEO,6,yellow,Stagnating
+DEU,6,yellow,On Track
+GHA,6,red,Moderately Increasing
+GRC,6,yellow,On Track
+GRD,6,orange,
+GTM,6,red,Moderately Increasing
+GIN,6,red,Stagnating
+GNB,6,red,Stagnating
+GUY,6,orange,Stagnating
+HTI,6,red,Stagnating
+HND,6,orange,Moderately Increasing
+HUN,6,yellow,Moderately Increasing
+ISL,6,orange,On Track
+IND,6,red,Moderately Increasing
+IDN,6,orange,On Track
+IRN,6,red,Moderately Increasing
+IRQ,6,orange,On Track
+IRL,6,orange,Moderately Increasing
+ISR,6,red,On Track
+ITA,6,yellow,On Track
+JAM,6,orange,Stagnating
+JPN,6,yellow,Moderately Increasing
+JOR,6,orange,On Track
+KAZ,6,orange,Moderately Increasing
+KEN,6,red,Stagnating
+KIR,6,red,Stagnating
+PRK,6,orange,Stagnating
+KOR,6,orange,On Track
+KWT,6,red,On Track
+KGZ,6,orange,On Track
+LAO,6,orange,On Track
+LVA,6,orange,On Track
+LBN,6,orange,Moderately Increasing
+LSO,6,red,Stagnating
+LBR,6,red,Stagnating
+LBY,6,red,Moderately Increasing
+LIE,6,grey,
+LTU,6,orange,On Track
+LUX,6,orange,On Track
+MDG,6,red,Stagnating
+MWI,6,red,Stagnating
+MYS,6,orange,Stagnating
+MDV,6,yellow,On Track
+MLI,6,red,Moderately Increasing
+MLT,6,red,On Track
+MHL,6,orange,Stagnating
+MRT,6,red,Stagnating
+MUS,6,orange,On Track
+MEX,6,red,Moderately Increasing
+FSM,6,orange,Stagnating
+MDA,6,orange,Moderately Increasing
+MCO,6,green,On Track
+MNG,6,red,Moderately Increasing
+MNE,6,orange,On Track
+MAR,6,orange,On Track
+MOZ,6,red,Moderately Increasing
+MMR,6,red,Moderately Increasing
+NAM,6,red,Stagnating
+NRU,6,red,On Track
+NPL,6,orange,On Track
+NLD,6,yellow,On Track
+NZL,6,orange,Moderately Increasing
+NIC,6,red,Stagnating
+NER,6,red,Stagnating
+NGA,6,red,Moderately Increasing
+MKD,6,orange,On Track
+NOR,6,orange,Moderately Increasing
+OMN,6,red,Moderately Increasing
+PAK,6,red,Moderately Increasing
+PLW,6,yellow,On Track
+PAN,6,orange,Moderately Increasing
+PNG,6,red,Stagnating
+PRY,6,orange,On Track
+PER,6,orange,Moderately Increasing
+PHL,6,orange,On Track
+POL,6,yellow,On Track
+PRT,6,orange,On Track
+QAT,6,red,On Track
+ROU,6,yellow,On Track
+RUS,6,orange,Moderately Increasing
+RWA,6,red,Stagnating
+WSM,6,orange,Moderately Increasing
+SMR,6,yellow,On Track
+STP,6,red,Stagnating
+SAU,6,red,On Track
+SEN,6,red,Moderately Increasing
+SRB,6,orange,On Track
+SYC,6,orange,On Track
+SLE,6,red,Stagnating
+SGP,6,red,On Track
+SVK,6,yellow,Moderately Increasing
+SVN,6,orange,On Track
+SLB,6,red,Decreasing
+SOM,6,red,Stagnating
+ZAF,6,orange,Moderately Increasing
+SSD,6,red,Stagnating
+ESP,6,yellow,On Track
+LKA,6,red,Moderately Increasing
+KNA,6,orange,
+LCA,6,orange,Moderately Increasing
+VCT,6,orange,
+SDN,6,red,Stagnating
+SUR,6,orange,On Track
+SWE,6,yellow,On Track
+CHE,6,orange,Moderately Increasing
+SYR,6,orange,Stagnating
+TJK,6,orange,Moderately Increasing
+TZA,6,red,Stagnating
+THA,6,orange,On Track
+TLS,6,red,Moderately Increasing
+TGO,6,red,Stagnating
+TON,6,orange,Moderately Increasing
+TTO,6,orange,Moderately Increasing
+TUN,6,orange,On Track
+TUR,6,orange,Moderately Increasing
+TKM,6,red,On Track
+TUV,6,orange,On Track
+UGA,6,red,Stagnating
+UKR,6,orange,Moderately Increasing
+ARE,6,red,On Track
+GBR,6,yellow,On Track
+USA,6,yellow,On Track
+URY,6,orange,On Track
+UZB,6,red,On Track
+VUT,6,red,Stagnating
+VEN,6,orange,Moderately Increasing
+VNM,6,orange,On Track
+YEM,6,red,Stagnating
+ZMB,6,red,Stagnating
+ZWE,6,red,Decreasing
+AFG,7,red,Moderately Increasing
+ALB,7,yellow,On Track
+DZA,7,red,Moderately Increasing
+AND,7,green,On Track
+AGO,7,red,Moderately Increasing
+ATG,7,yellow,Moderately Increasing
+ARG,7,orange,Moderately Increasing
+ARM,7,orange,Moderately Increasing
+AUS,7,orange,Moderately Increasing
+AUT,7,green,On Track
+AZE,7,orange,Stagnating
+BHS,7,yellow,On Track
+BHR,7,orange,Moderately Increasing
+BGD,7,orange,Moderately Increasing
+BRB,7,yellow,On Track
+BLR,7,red,Moderately Increasing
+BEL,7,orange,Moderately Increasing
+BLZ,7,yellow,Moderately Increasing
+BEN,7,red,Stagnating
+BTN,7,yellow,On Track
+BOL,7,orange,Moderately Increasing
+BIH,7,orange,Moderately Increasing
+BWA,7,red,Stagnating
+BRA,7,green,On Track
+BRN,7,red,Stagnating
+BGR,7,yellow,Moderately Increasing
+BFA,7,red,Stagnating
+BDI,7,red,Stagnating
+CPV,7,orange,Moderately Increasing
+KHM,7,red,Moderately Increasing
+CMR,7,red,Moderately Increasing
+CAN,7,yellow,Moderately Increasing
+CAF,7,red,Stagnating
+TCD,7,red,Stagnating
+CHL,7,yellow,On Track
+CHN,7,orange,Moderately Increasing
+COL,7,yellow,Moderately Increasing
+COM,7,red,Moderately Increasing
+COD,7,red,Moderately Increasing
+COG,7,red,Moderately Increasing
+CRI,7,green,On Track
+CIV,7,red,Moderately Increasing
+HRV,7,yellow,On Track
+CUB,7,yellow,On Track
+CYP,7,orange,Moderately Increasing
+CZE,7,orange,Moderately Increasing
+DNK,7,green,On Track
+DJI,7,red,Stagnating
+DMA,7,orange,Stagnating
+DOM,7,orange,Moderately Increasing
+ECU,7,yellow,On Track
+EGY,7,orange,Stagnating
+SLV,7,yellow,Moderately Increasing
+GNQ,7,red,Stagnating
+ERI,7,red,Moderately Increasing
+EST,7,orange,Moderately Increasing
+SWZ,7,orange,Moderately Increasing
+ETH,7,red,Moderately Increasing
+FJI,7,red,Moderately Increasing
+FIN,7,green,On Track
+FRA,7,yellow,Moderately Increasing
+GAB,7,orange,On Track
+GMB,7,red,Stagnating
+GEO,7,green,On Track
+DEU,7,yellow,On Track
+GHA,7,orange,Moderately Increasing
+GRC,7,orange,Moderately Increasing
+GRD,7,yellow,Moderately Increasing
+GTM,7,orange,Moderately Increasing
+GIN,7,red,Moderately Increasing
+GNB,7,red,Stagnating
+GUY,7,orange,Moderately Increasing
+HTI,7,red,Stagnating
+HND,7,orange,Moderately Increasing
+HUN,7,orange,Moderately Increasing
+ISL,7,green,On Track
+IND,7,orange,Moderately Increasing
+IDN,7,orange,Moderately Increasing
+IRN,7,red,Stagnating
+IRQ,7,red,Moderately Increasing
+IRL,7,orange,On Track
+ISR,7,orange,Moderately Increasing
+ITA,7,yellow,On Track
+JAM,7,red,Stagnating
+JPN,7,orange,Moderately Increasing
+JOR,7,orange,Moderately Increasing
+KAZ,7,red,Stagnating
+KEN,7,red,Moderately Increasing
+KIR,7,red,Stagnating
+PRK,7,red,Stagnating
+KOR,7,orange,Moderately Increasing
+KWT,7,orange,Moderately Increasing
+KGZ,7,yellow,Moderately Increasing
+LAO,7,orange,Moderately Increasing
+LVA,7,yellow,On Track
+LBN,7,orange,Moderately Increasing
+LSO,7,red,Stagnating
+LBR,7,red,Stagnating
+LBY,7,red,Decreasing
+LIE,7,grey,
+LTU,7,orange,Moderately Increasing
+LUX,7,red,Moderately Increasing
+MDG,7,red,Stagnating
+MWI,7,red,Stagnating
+MYS,7,red,Moderately Increasing
+MDV,7,yellow,Moderately Increasing
+MLI,7,red,Moderately Increasing
+MLT,7,orange,Moderately Increasing
+MHL,7,yellow,Moderately Increasing
+MRT,7,red,Stagnating
+MUS,7,orange,Stagnating
+MEX,7,orange,Moderately Increasing
+FSM,7,orange,Moderately Increasing
+MDA,7,yellow,Stagnating
+MCO,7,green,On Track
+MNG,7,red,Stagnating
+MNE,7,yellow,Moderately Increasing
+MAR,7,red,Moderately Increasing
+MOZ,7,red,Moderately Increasing
+MMR,7,red,Moderately Increasing
+NAM,7,red,Stagnating
+NRU,7,yellow,Moderately Increasing
+NPL,7,red,Stagnating
+NLD,7,orange,Moderately Increasing
+NZL,7,green,On Track
+NIC,7,orange,Moderately Increasing
+NER,7,red,Stagnating
+NGA,7,red,Stagnating
+MKD,7,orange,Stagnating
+NOR,7,green,On Track
+OMN,7,red,Moderately Increasing
+PAK,7,red,Stagnating
+PLW,7,green,On Track
+PAN,7,yellow,Moderately Increasing
+PNG,7,red,Stagnating
+PRY,7,yellow,Moderately Increasing
+PER,7,yellow,On Track
+PHL,7,orange,Moderately Increasing
+POL,7,red,Stagnating
+PRT,7,green,On Track
+QAT,7,red,Moderately Increasing
+ROU,7,yellow,Stagnating
+RUS,7,red,Moderately Increasing
+RWA,7,red,Moderately Increasing
+WSM,7,red,Stagnating
+SMR,7,green,On Track
+STP,7,red,Moderately Increasing
+SAU,7,orange,Moderately Increasing
+SEN,7,red,Moderately Increasing
+SRB,7,orange,Stagnating
+SYC,7,green,On Track
+SLE,7,red,Stagnating
+SGP,7,orange,Moderately Increasing
+SVK,7,yellow,On Track
+SVN,7,yellow,Moderately Increasing
+SLB,7,red,Stagnating
+SOM,7,red,Stagnating
+ZAF,7,red,Stagnating
+SSD,7,red,Stagnating
+ESP,7,yellow,Moderately Increasing
+LKA,7,red,Moderately Increasing
+KNA,7,yellow,Moderately Increasing
+LCA,7,yellow,Moderately Increasing
+VCT,7,yellow,Moderately Increasing
+SDN,7,red,Moderately Increasing
+SUR,7,yellow,On Track
+SWE,7,green,On Track
+CHE,7,green,On Track
+SYR,7,red,Stagnating
+TJK,7,yellow,On Track
+TZA,7,red,Stagnating
+THA,7,orange,Moderately Increasing
+TLS,7,orange,Moderately Increasing
+TGO,7,red,Stagnating
+TON,7,orange,Moderately Increasing
+TTO,7,red,Moderately Increasing
+TUN,7,orange,Moderately Increasing
+TUR,7,yellow,Moderately Increasing
+TKM,7,red,Moderately Increasing
+TUV,7,yellow,Moderately Increasing
+UGA,7,red,Moderately Increasing
+UKR,7,orange,Moderately Increasing
+ARE,7,orange,Moderately Increasing
+GBR,7,yellow,On Track
+USA,7,orange,Moderately Increasing
+URY,7,green,On Track
+UZB,7,red,Stagnating
+VUT,7,red,Stagnating
+VEN,7,yellow,On Track
+VNM,7,yellow,Stagnating
+YEM,7,red,Stagnating
+ZMB,7,red,Moderately Increasing
+ZWE,7,red,Moderately Increasing
+AFG,8,red,Stagnating
+ALB,8,red,Moderately Increasing
+DZA,8,red,Stagnating
+AND,8,grey,
+AGO,8,red,Stagnating
+ATG,8,yellow,On Track
+ARG,8,red,Stagnating
+ARM,8,red,Moderately Increasing
+AUS,8,orange,Stagnating
+AUT,8,yellow,Moderately Increasing
+AZE,8,red,Stagnating
+BHS,8,red,Moderately Increasing
+BHR,8,orange,On Track
+BGD,8,orange,Moderately Increasing
+BRB,8,orange,Moderately Increasing
+BLR,8,red,Moderately Increasing
+BEL,8,yellow,On Track
+BLZ,8,red,Stagnating
+BEN,8,orange,On Track
+BTN,8,red,On Track
+BOL,8,orange,Moderately Increasing
+BIH,8,orange,Moderately Increasing
+BWA,8,red,Stagnating
+BRA,8,red,Stagnating
+BRN,8,orange,Moderately Increasing
+BGR,8,yellow,Moderately Increasing
+BFA,8,red,Moderately Increasing
+BDI,8,red,On Track
+CPV,8,red,Stagnating
+KHM,8,red,Stagnating
+CMR,8,red,Moderately Increasing
+CAN,8,orange,Moderately Increasing
+CAF,8,red,Moderately Increasing
+TCD,8,red,Moderately Increasing
+CHL,8,orange,Moderately Increasing
+CHN,8,orange,Moderately Increasing
+COL,8,red,Moderately Increasing
+COM,8,red,Decreasing
+COD,8,red,Moderately Increasing
+COG,8,red,Moderately Increasing
+CRI,8,orange,Stagnating
+CIV,8,orange,Moderately Increasing
+HRV,8,yellow,On Track
+CUB,8,green,On Track
+CYP,8,yellow,On Track
+CZE,8,yellow,On Track
+DNK,8,yellow,Moderately Increasing
+DJI,8,red,Stagnating
+DMA,8,grey,
+DOM,8,orange,Stagnating
+ECU,8,orange,Moderately Increasing
+EGY,8,red,Moderately Increasing
+SLV,8,red,Stagnating
+GNQ,8,orange,Decreasing
+ERI,8,orange,Stagnating
+EST,8,yellow,Moderately Increasing
+SWZ,8,red,Stagnating
+ETH,8,red,Moderately Increasing
+FJI,8,orange,On Track
+FIN,8,yellow,On Track
+FRA,8,orange,Moderately Increasing
+GAB,8,red,Moderately Increasing
+GMB,8,red,Stagnating
+GEO,8,orange,Moderately Increasing
+DEU,8,yellow,On Track
+GHA,8,orange,Moderately Increasing
+GRC,8,red,On Track
+GRD,8,grey,
+GTM,8,red,Moderately Increasing
+GIN,8,orange,Moderately Increasing
+GNB,8,orange,Stagnating
+GUY,8,red,Moderately Increasing
+HTI,8,red,Moderately Increasing
+HND,8,red,Stagnating
+HUN,8,orange,Moderately Increasing
+ISL,8,orange,Moderately Increasing
+IND,8,red,Moderately Increasing
+IDN,8,orange,On Track
+IRN,8,red,Moderately Increasing
+IRQ,8,red,Moderately Increasing
+IRL,8,yellow,On Track
+ISR,8,orange,Moderately Increasing
+ITA,8,orange,Moderately Increasing
+JAM,8,orange,On Track
+JPN,8,yellow,On Track
+JOR,8,red,Moderately Increasing
+KAZ,8,orange,Moderately Increasing
+KEN,8,orange,Stagnating
+KIR,8,grey,
+PRK,8,orange,On Track
+KOR,8,yellow,Moderately Increasing
+KWT,8,red,On Track
+KGZ,8,red,Moderately Increasing
+LAO,8,orange,On Track
+LVA,8,yellow,Moderately Increasing
+LBN,8,red,Stagnating
+LSO,8,red,Stagnating
+LBR,8,red,Moderately Increasing
+LBY,8,red,Moderately Increasing
+LIE,8,grey,
+LTU,8,yellow,On Track
+LUX,8,orange,Moderately Increasing
+MDG,8,red,Moderately Increasing
+MWI,8,red,Moderately Increasing
+MYS,8,orange,On Track
+MDV,8,orange,On Track
+MLI,8,red,Moderately Increasing
+MLT,8,orange,On Track
+MHL,8,grey,
+MRT,8,red,Stagnating
+MUS,8,red,Stagnating
+MEX,8,red,Stagnating
+FSM,8,grey,
+MDA,8,red,Moderately Increasing
+MCO,8,grey,
+MNG,8,orange,Moderately Increasing
+MNE,8,orange,Moderately Increasing
+MAR,8,red,Stagnating
+MOZ,8,red,On Track
+MMR,8,red,Moderately Increasing
+NAM,8,red,Moderately Increasing
+NRU,8,grey,
+NPL,8,orange,Moderately Increasing
+NLD,8,yellow,On Track
+NZL,8,yellow,Moderately Increasing
+NIC,8,red,Stagnating
+NER,8,red,Moderately Increasing
+NGA,8,red,Stagnating
+MKD,8,orange,On Track
+NOR,8,orange,Moderately Increasing
+OMN,8,orange,On Track
+PAK,8,red,Moderately Increasing
+PLW,8,grey,
+PAN,8,red,Moderately Increasing
+PNG,8,red,On Track
+PRY,8,orange,Stagnating
+PER,8,red,Moderately Increasing
+PHL,8,red,Moderately Increasing
+POL,8,yellow,Moderately Increasing
+PRT,8,yellow,Moderately Increasing
+QAT,8,orange,On Track
+ROU,8,yellow,Moderately Increasing
+RUS,8,yellow,Moderately Increasing
+RWA,8,red,On Track
+WSM,8,orange,Stagnating
+SMR,8,grey,
+STP,8,red,Stagnating
+SAU,8,orange,Moderately Increasing
+SEN,8,red,Moderately Increasing
+SRB,8,orange,Moderately Increasing
+SYC,8,grey,
+SLE,8,red,Stagnating
+SGP,8,orange,Moderately Increasing
+SVK,8,orange,On Track
+SVN,8,green,On Track
+SLB,8,grey,
+SOM,8,red,Stagnating
+ZAF,8,red,Stagnating
+SSD,8,red,Stagnating
+ESP,8,red,On Track
+LKA,8,orange,Stagnating
+KNA,8,grey,
+LCA,8,red,Moderately Increasing
+VCT,8,red,Decreasing
+SDN,8,red,Stagnating
+SUR,8,red,Stagnating
+SWE,8,yellow,On Track
+CHE,8,orange,Moderately Increasing
+SYR,8,red,Stagnating
+TJK,8,orange,Moderately Increasing
+TZA,8,red,Moderately Increasing
+THA,8,orange,Moderately Increasing
+TLS,8,yellow,On Track
+TGO,8,red,On Track
+TON,8,grey,
+TTO,8,orange,On Track
+TUN,8,red,Stagnating
+TUR,8,red,Stagnating
+TKM,8,red,Stagnating
+TUV,8,grey,
+UGA,8,red,Moderately Increasing
+UKR,8,orange,Moderately Increasing
+ARE,8,red,Moderately Increasing
+GBR,8,orange,Moderately Increasing
+USA,8,orange,Moderately Increasing
+URY,8,red,Moderately Increasing
+UZB,8,red,Stagnating
+VUT,8,yellow,On Track
+VEN,8,orange,Moderately Increasing
+VNM,8,orange,Moderately Increasing
+YEM,8,red,Moderately Increasing
+ZMB,8,red,Stagnating
+ZWE,8,red,Moderately Increasing
+AFG,9,red,Stagnating
+ALB,9,orange,Moderately Increasing
+DZA,9,orange,Moderately Increasing
+AND,9,orange,On Track
+AGO,9,red,Stagnating
+ATG,9,orange,Moderately Increasing
+ARG,9,orange,Stagnating
+ARM,9,orange,Moderately Increasing
+AUS,9,orange,Moderately Increasing
+AUT,9,yellow,Moderately Increasing
+AZE,9,orange,Stagnating
+BHS,9,orange,Moderately Increasing
+BHR,9,orange,Moderately Increasing
+BGD,9,orange,Moderately Increasing
+BRB,9,orange,Stagnating
+BLR,9,orange,Moderately Increasing
+BEL,9,yellow,Moderately Increasing
+BLZ,9,orange,Moderately Increasing
+BEN,9,red,Moderately Increasing
+BTN,9,orange,Moderately Increasing
+BOL,9,red,Moderately Increasing
+BIH,9,orange,Moderately Increasing
+BWA,9,orange,On Track
+BRA,9,orange,Moderately Increasing
+BRN,9,orange,On Track
+BGR,9,orange,Moderately Increasing
+BFA,9,red,Moderately Increasing
+BDI,9,red,Stagnating
+CPV,9,orange,Moderately Increasing
+KHM,9,red,Stagnating
+CMR,9,red,Moderately Increasing
+CAN,9,orange,On Track
+CAF,9,red,Stagnating
+TCD,9,red,Stagnating
+CHL,9,red,Moderately Increasing
+CHN,9,yellow,On Track
+COL,9,red,Moderately Increasing
+COM,9,red,Stagnating
+COD,9,red,Moderately Increasing
+COG,9,red,Stagnating
+CRI,9,red,Moderately Increasing
+CIV,9,red,Moderately Increasing
+HRV,9,orange,On Track
+CUB,9,red,Moderately Increasing
+CYP,9,orange,Moderately Increasing
+CZE,9,orange,Moderately Increasing
+DNK,9,yellow,On Track
+DJI,9,red,Moderately Increasing
+DMA,9,orange,Stagnating
+DOM,9,orange,Moderately Increasing
+ECU,9,orange,On Track
+EGY,9,orange,Moderately Increasing
+SLV,9,red,Stagnating
+GNQ,9,red,Decreasing
+ERI,9,red,Stagnating
+EST,9,orange,Moderately Increasing
+SWZ,9,red,Stagnating
+ETH,9,red,Stagnating
+FJI,9,yellow,Moderately Increasing
+FIN,9,yellow,Moderately Increasing
+FRA,9,yellow,On Track
+GAB,9,orange,Moderately Increasing
+GMB,9,red,Stagnating
+GEO,9,orange,Moderately Increasing
+DEU,9,yellow,On Track
+GHA,9,orange,Moderately Increasing
+GRC,9,orange,Moderately Increasing
+GRD,9,orange,Moderately Increasing
+GTM,9,red,Stagnating
+GIN,9,red,Stagnating
+GNB,9,red,Stagnating
+GUY,9,red,Stagnating
+HTI,9,red,Stagnating
+HND,9,red,Moderately Increasing
+HUN,9,orange,On Track
+ISL,9,yellow,Moderately Increasing
+IND,9,red,Moderately Increasing
+IDN,9,orange,Moderately Increasing
+IRN,9,orange,On Track
+IRQ,9,orange,Moderately Increasing
+IRL,9,yellow,Moderately Increasing
+ISR,9,yellow,On Track
+ITA,9,red,On Track
+JAM,9,orange,Stagnating
+JPN,9,green,On Track
+JOR,9,orange,On Track
+KAZ,9,orange,Moderately Increasing
+KEN,9,red,Moderately Increasing
+KIR,9,red,Moderately Increasing
+PRK,9,red,Stagnating
+KOR,9,yellow,Moderately Increasing
+KWT,9,orange,Moderately Increasing
+KGZ,9,orange,Moderately Increasing
+LAO,9,red,Moderately Increasing
+LVA,9,red,Moderately Increasing
+LBN,9,orange,Moderately Increasing
+LSO,9,red,Stagnating
+LBR,9,red,Stagnating
+LBY,9,red,Decreasing
+LIE,9,yellow,On Track
+LTU,9,red,Moderately Increasing
+LUX,9,orange,Stagnating
+MDG,9,red,Stagnating
+MWI,9,red,Stagnating
+MYS,9,yellow,Moderately Increasing
+MDV,9,orange,Moderately Increasing
+MLI,9,red,Stagnating
+MLT,9,orange,Moderately Increasing
+MHL,9,red,Decreasing
+MRT,9,red,Moderately Increasing
+MUS,9,orange,On Track
+MEX,9,red,Stagnating
+FSM,9,red,Moderately Increasing
+MDA,9,orange,Stagnating
+MCO,9,orange,On Track
+MNG,9,orange,Moderately Increasing
+MNE,9,orange,Moderately Increasing
+MAR,9,orange,Moderately Increasing
+MOZ,9,red,Decreasing
+MMR,9,red,Moderately Increasing
+NAM,9,red,Moderately Increasing
+NRU,9,orange,Moderately Increasing
+NPL,9,red,Moderately Increasing
+NLD,9,yellow,On Track
+NZL,9,orange,Moderately Increasing
+NIC,9,red,Moderately Increasing
+NER,9,red,Stagnating
+NGA,9,red,Stagnating
+MKD,9,orange,Stagnating
+NOR,9,yellow,Moderately Increasing
+OMN,9,orange,Moderately Increasing
+PAK,9,red,Stagnating
+PLW,9,red,On Track
+PAN,9,orange,Moderately Increasing
+PNG,9,red,Stagnating
+PRY,9,orange,Moderately Increasing
+PER,9,orange,Stagnating
+PHL,9,red,Moderately Increasing
+POL,9,orange,On Track
+PRT,9,orange,On Track
+QAT,9,orange,Moderately Increasing
+ROU,9,orange,Moderately Increasing
+RUS,9,orange,Moderately Increasing
+RWA,9,red,Moderately Increasing
+WSM,9,red,Moderately Increasing
+SMR,9,orange,On Track
+STP,9,red,Stagnating
+SAU,9,orange,On Track
+SEN,9,red,Moderately Increasing
+SRB,9,orange,Moderately Increasing
+SYC,9,orange,On Track
+SLE,9,red,Stagnating
+SGP,9,green,On Track
+SVK,9,red,Moderately Increasing
+SVN,9,orange,On Track
+SLB,9,red,Stagnating
+SOM,9,red,Stagnating
+ZAF,9,orange,Moderately Increasing
+SSD,9,red,Stagnating
+ESP,9,orange,Moderately Increasing
+LKA,9,red,Moderately Increasing
+KNA,9,yellow,On Track
+LCA,9,orange,Moderately Increasing
+VCT,9,orange,On Track
+SDN,9,red,Moderately Increasing
+SUR,9,orange,Moderately Increasing
+SWE,9,yellow,Moderately Increasing
+CHE,9,orange,Moderately Increasing
+SYR,9,red,Stagnating
+TJK,9,red,Stagnating
+TZA,9,red,Stagnating
+THA,9,orange,On Track
+TLS,9,red,Stagnating
+TGO,9,red,Moderately Increasing
+TON,9,orange,Moderately Increasing
+TTO,9,red,Stagnating
+TUN,9,orange,Moderately Increasing
+TUR,9,red,On Track
+TKM,9,red,Stagnating
+TUV,9,red,Decreasing
+UGA,9,red,Moderately Increasing
+UKR,9,orange,Moderately Increasing
+ARE,9,yellow,On Track
+GBR,9,yellow,On Track
+USA,9,yellow,On Track
+URY,9,orange,Moderately Increasing
+UZB,9,orange,Moderately Increasing
+VUT,9,orange,Moderately Increasing
+VEN,9,red,Stagnating
+VNM,9,orange,Moderately Increasing
+YEM,9,red,Stagnating
+ZMB,9,red,Stagnating
+ZWE,9,red,Stagnating
+AFG,10,grey,
+ALB,10,orange,Stagnating
+DZA,10,green,
+AND,10,grey,
+AGO,10,red,
+ATG,10,grey,
+ARG,10,red,Decreasing
+ARM,10,orange,On Track
+AUS,10,orange,Decreasing
+AUT,10,yellow,Stagnating
+AZE,10,green,
+BHS,10,grey,
+BHR,10,grey,
+BGD,10,orange,
+BRB,10,grey,
+BLR,10,green,On Track
+BEL,10,yellow,On Track
+BLZ,10,grey,
+BEN,10,red,
+BTN,10,orange,
+BOL,10,red,On Track
+BIH,10,orange,
+BWA,10,red,
+BRA,10,red,Decreasing
+BRN,10,grey,
+BGR,10,red,Decreasing
+BFA,10,orange,
+BDI,10,orange,
+CPV,10,red,
+KHM,10,grey,
+CMR,10,red,
+CAN,10,yellow,Moderately Increasing
+CAF,10,red,
+TCD,10,red,
+CHL,10,red,Stagnating
+CHN,10,orange,
+COL,10,red,Decreasing
+COM,10,red,
+COD,10,red,
+COG,10,red,
+CRI,10,red,Stagnating
+CIV,10,red,
+HRV,10,yellow,On Track
+CUB,10,grey,
+CYP,10,yellow,On Track
+CZE,10,yellow,Moderately Increasing
+DNK,10,green,On Track
+DJI,10,red,
+DMA,10,grey,
+DOM,10,red,Moderately Increasing
+ECU,10,red,Stagnating
+EGY,10,yellow,On Track
+SLV,10,orange,Moderately Increasing
+GNQ,10,grey,
+ERI,10,grey,
+EST,10,orange,Moderately Increasing
+SWZ,10,red,
+ETH,10,orange,
+FJI,10,orange,
+FIN,10,yellow,Moderately Increasing
+FRA,10,yellow,Moderately Increasing
+GAB,10,orange,
+GMB,10,orange,
+GEO,10,orange,Stagnating
+DEU,10,yellow,Moderately Increasing
+GHA,10,red,
+GRC,10,yellow,On Track
+GRD,10,grey,
+GTM,10,red,
+GIN,10,orange,
+GNB,10,red,
+GUY,10,grey,
+HTI,10,red,
+HND,10,red,Stagnating
+HUN,10,yellow,Stagnating
+ISL,10,green,On Track
+IND,10,orange,
+IDN,10,orange,Moderately Increasing
+IRN,10,red,Decreasing
+IRQ,10,yellow,
+IRL,10,yellow,Moderately Increasing
+ISR,10,orange,Moderately Increasing
+ITA,10,orange,Stagnating
+JAM,10,red,
+JPN,10,orange,
+JOR,10,orange,
+KAZ,10,green,On Track
+KEN,10,red,
+KIR,10,orange,
+PRK,10,grey,
+KOR,10,red,Stagnating
+KWT,10,grey,
+KGZ,10,yellow,On Track
+LAO,10,orange,
+LVA,10,red,Decreasing
+LBN,10,yellow,
+LSO,10,red,
+LBR,10,orange,
+LBY,10,grey,
+LIE,10,grey,
+LTU,10,red,Stagnating
+LUX,10,yellow,Stagnating
+MDG,10,red,
+MWI,10,red,
+MYS,10,red,
+MDV,10,yellow,
+MLI,10,orange,
+MLT,10,yellow,On Track
+MHL,10,grey,
+MRT,10,orange,
+MUS,10,orange,
+MEX,10,red,Moderately Increasing
+FSM,10,red,
+MDA,10,green,On Track
+MCO,10,grey,
+MNG,10,orange,Decreasing
+MNE,10,orange,
+MAR,10,orange,
+MOZ,10,red,
+MMR,10,yellow,On Track
+NAM,10,red,
+NRU,10,yellow,
+NPL,10,orange,
+NLD,10,yellow,Stagnating
+NZL,10,orange,
+NIC,10,red,
+NER,10,orange,
+NGA,10,orange,
+MKD,10,orange,On Track
+NOR,10,green,On Track
+OMN,10,grey,
+PAK,10,orange,On Track
+PLW,10,grey,
+PAN,10,red,Stagnating
+PNG,10,red,
+PRY,10,red,Stagnating
+PER,10,red,Moderately Increasing
+PHL,10,red,Moderately Increasing
+POL,10,yellow,Moderately Increasing
+PRT,10,yellow,Moderately Increasing
+QAT,10,grey,
+ROU,10,orange,Stagnating
+RUS,10,orange,Stagnating
+RWA,10,red,
+WSM,10,orange,
+SMR,10,grey,
+STP,10,red,
+SAU,10,grey,
+SEN,10,red,
+SRB,10,orange,On Track
+SYC,10,orange,
+SLE,10,orange,
+SGP,10,grey,
+SVK,10,yellow,Moderately Increasing
+SVN,10,yellow,Moderately Increasing
+SLB,10,orange,
+SOM,10,orange,
+ZAF,10,red,
+SSD,10,red,
+ESP,10,orange,Moderately Increasing
+LKA,10,orange,
+KNA,10,grey,
+LCA,10,red,
+VCT,10,grey,
+SDN,10,orange,
+SUR,10,grey,
+SWE,10,yellow,Moderately Increasing
+CHE,10,orange,Decreasing
+SYR,10,orange,
+TJK,10,orange,
+TZA,10,red,
+THA,10,orange,Moderately Increasing
+TLS,10,yellow,
+TGO,10,red,
+TON,10,orange,
+TTO,10,grey,
+TUN,10,orange,
+TUR,10,red,Moderately Increasing
+TKM,10,grey,
+TUV,10,orange,
+UGA,10,red,
+UKR,10,green,On Track
+ARE,10,yellow,
+GBR,10,orange,Decreasing
+USA,10,red,Decreasing
+URY,10,orange,Stagnating
+UZB,10,orange,
+VUT,10,orange,
+VEN,10,red,
+VNM,10,orange,Decreasing
+YEM,10,orange,
+ZMB,10,red,
+ZWE,10,red,
+AFG,11,red,Stagnating
+ALB,11,orange,Stagnating
+DZA,11,orange,Decreasing
+AND,11,yellow,On Track
+AGO,11,red,Stagnating
+ATG,11,grey,
+ARG,11,orange,Moderately Increasing
+ARM,11,orange,Moderately Increasing
+AUS,11,yellow,Moderately Increasing
+AUT,11,yellow,On Track
+AZE,11,yellow,Moderately Increasing
+BHS,11,grey,
+BHR,11,orange,Decreasing
+BGD,11,red,Moderately Increasing
+BRB,11,grey,
+BLR,11,orange,Moderately Increasing
+BEL,11,yellow,Moderately Increasing
+BLZ,11,orange,On Track
+BEN,11,red,Stagnating
+BTN,11,yellow,Moderately Increasing
+BOL,11,orange,Stagnating
+BIH,11,red,Stagnating
+BWA,11,orange,Stagnating
+BRA,11,orange,Moderately Increasing
+BRN,11,green,On Track
+BGR,11,orange,Moderately Increasing
+BFA,11,red,Stagnating
+BDI,11,red,Moderately Increasing
+CPV,11,orange,Moderately Increasing
+KHM,11,orange,Moderately Increasing
+CMR,11,red,Stagnating
+CAN,11,yellow,Moderately Increasing
+CAF,11,red,Decreasing
+TCD,11,red,Decreasing
+CHL,11,orange,On Track
+CHN,11,orange,Moderately Increasing
+COL,11,orange,Stagnating
+COM,11,orange,Stagnating
+COD,11,red,Stagnating
+COG,11,red,Decreasing
+CRI,11,yellow,Moderately Increasing
+CIV,11,red,Decreasing
+HRV,11,orange,Stagnating
+CUB,11,orange,Moderately Increasing
+CYP,11,orange,Moderately Increasing
+CZE,11,yellow,On Track
+DNK,11,yellow,Moderately Increasing
+DJI,11,red,Stagnating
+DMA,11,grey,
+DOM,11,orange,Stagnating
+ECU,11,yellow,On Track
+EGY,11,orange,Moderately Increasing
+SLV,11,orange,Moderately Increasing
+GNQ,11,red,Decreasing
+ERI,11,red,Decreasing
+EST,11,yellow,Moderately Increasing
+SWZ,11,orange,Stagnating
+ETH,11,red,Stagnating
+FJI,11,yellow,Moderately Increasing
+FIN,11,yellow,Moderately Increasing
+FRA,11,yellow,Moderately Increasing
+GAB,11,red,Stagnating
+GMB,11,orange,Stagnating
+GEO,11,orange,Moderately Increasing
+DEU,11,yellow,Moderately Increasing
+GHA,11,red,Stagnating
+GRC,11,orange,Moderately Increasing
+GRD,11,grey,
+GTM,11,orange,Stagnating
+GIN,11,red,Decreasing
+GNB,11,red,Stagnating
+GUY,11,orange,Stagnating
+HTI,11,red,Decreasing
+HND,11,orange,Moderately Increasing
+HUN,11,yellow,Moderately Increasing
+ISL,11,orange,Moderately Increasing
+IND,11,red,Decreasing
+IDN,11,red,Stagnating
+IRN,11,orange,Stagnating
+IRQ,11,red,Stagnating
+IRL,11,yellow,Moderately Increasing
+ISR,11,yellow,Moderately Increasing
+ITA,11,orange,Moderately Increasing
+JAM,11,orange,Stagnating
+JPN,11,yellow,Moderately Increasing
+JOR,11,orange,Stagnating
+KAZ,11,orange,Stagnating
+KEN,11,red,Stagnating
+KIR,11,orange,Moderately Increasing
+PRK,11,red,Stagnating
+KOR,11,yellow,Moderately Increasing
+KWT,11,orange,Stagnating
+KGZ,11,yellow,Moderately Increasing
+LAO,11,orange,Moderately Increasing
+LVA,11,yellow,Moderately Increasing
+LBN,11,red,Decreasing
+LSO,11,red,Stagnating
+LBR,11,red,Decreasing
+LBY,11,orange,Decreasing
+LIE,11,grey,
+LTU,11,yellow,Moderately Increasing
+LUX,11,yellow,On Track
+MDG,11,red,Stagnating
+MWI,11,orange,Stagnating
+MYS,11,yellow,Moderately Increasing
+MDV,11,orange,On Track
+MLI,11,red,Moderately Increasing
+MLT,11,yellow,On Track
+MHL,11,grey,
+MRT,11,red,Stagnating
+MUS,11,yellow,Moderately Increasing
+MEX,11,orange,Moderately Increasing
+FSM,11,grey,
+MDA,11,orange,Moderately Increasing
+MCO,11,yellow,On Track
+MNG,11,red,Stagnating
+MNE,11,red,Stagnating
+MAR,11,orange,Stagnating
+MOZ,11,orange,Moderately Increasing
+MMR,11,red,Stagnating
+NAM,11,red,Decreasing
+NRU,11,orange,Moderately Increasing
+NPL,11,red,Stagnating
+NLD,11,yellow,On Track
+NZL,11,yellow,Moderately Increasing
+NIC,11,orange,Stagnating
+NER,11,red,Stagnating
+NGA,11,red,Decreasing
+MKD,11,orange,Stagnating
+NOR,11,yellow,On Track
+OMN,11,orange,Moderately Increasing
+PAK,11,red,Stagnating
+PLW,11,yellow,On Track
+PAN,11,orange,On Track
+PNG,11,orange,Stagnating
+PRY,11,orange,Moderately Increasing
+PER,11,orange,Stagnating
+PHL,11,orange,Stagnating
+POL,11,orange,Stagnating
+PRT,11,yellow,Moderately Increasing
+QAT,11,orange,Stagnating
+ROU,11,yellow,Stagnating
+RUS,11,yellow,Moderately Increasing
+RWA,11,red,Stagnating
+WSM,11,yellow,Stagnating
+SMR,11,grey,
+STP,11,red,Stagnating
+SAU,11,orange,Moderately Increasing
+SEN,11,red,Moderately Increasing
+SRB,11,orange,Moderately Increasing
+SYC,11,grey,
+SLE,11,red,Stagnating
+SGP,11,yellow,Moderately Increasing
+SVK,11,orange,Moderately Increasing
+SVN,11,yellow,Moderately Increasing
+SLB,11,orange,Stagnating
+SOM,11,red,Stagnating
+ZAF,11,orange,Moderately Increasing
+SSD,11,red,Stagnating
+ESP,11,yellow,Moderately Increasing
+LKA,11,orange,Moderately Increasing
+KNA,11,grey,
+LCA,11,orange,Moderately Increasing
+VCT,11,grey,
+SDN,11,red,Stagnating
+SUR,11,orange,Moderately Increasing
+SWE,11,yellow,Moderately Increasing
+CHE,11,yellow,Moderately Increasing
+SYR,11,red,Stagnating
+TJK,11,orange,Moderately Increasing
+TZA,11,red,Moderately Increasing
+THA,11,orange,Stagnating
+TLS,11,orange,Moderately Increasing
+TGO,11,red,Decreasing
+TON,11,yellow,On Track
+TTO,11,orange,On Track
+TUN,11,red,Stagnating
+TUR,11,orange,Moderately Increasing
+TKM,11,orange,Stagnating
+TUV,11,yellow,On Track
+UGA,11,red,Stagnating
+UKR,11,orange,Stagnating
+ARE,11,yellow,Moderately Increasing
+GBR,11,yellow,Stagnating
+USA,11,yellow,Moderately Increasing
+URY,11,yellow,On Track
+UZB,11,red,Moderately Increasing
+VUT,11,yellow,Stagnating
+VEN,11,red,Stagnating
+VNM,11,orange,Moderately Increasing
+YEM,11,red,Stagnating
+ZMB,11,red,Stagnating
+ZWE,11,red,Decreasing
+AFG,12,green,On Track
+ALB,12,yellow,On Track
+DZA,12,yellow,On Track
+AND,12,red,Moderately Increasing
+AGO,12,green,On Track
+ATG,12,orange,Moderately Increasing
+ARG,12,orange,Stagnating
+ARM,12,yellow,On Track
+AUS,12,red,Decreasing
+AUT,12,red,Moderately Increasing
+AZE,12,yellow,On Track
+BHS,12,orange,Moderately Increasing
+BHR,12,orange,Moderately Increasing
+BGD,12,green,On Track
+BRB,12,orange,Moderately Increasing
+BLR,12,orange,Moderately Increasing
+BEL,12,red,Moderately Increasing
+BLZ,12,yellow,On Track
+BEN,12,green,On Track
+BTN,12,green,On Track
+BOL,12,yellow,Stagnating
+BIH,12,yellow,On Track
+BWA,12,yellow,On Track
+BRA,12,orange,Stagnating
+BRN,12,orange,Moderately Increasing
+BGR,12,orange,Stagnating
+BFA,12,green,On Track
+BDI,12,green,On Track
+CPV,12,green,On Track
+KHM,12,green,On Track
+CMR,12,green,On Track
+CAN,12,orange,Decreasing
+CAF,12,yellow,Stagnating
+TCD,12,yellow,Stagnating
+CHL,12,orange,Moderately Increasing
+CHN,12,yellow,On Track
+COL,12,yellow,On Track
+COM,12,grey,
+COD,12,green,On Track
+COG,12,green,On Track
+CRI,12,orange,On Track
+CIV,12,green,On Track
+HRV,12,red,On Track
+CUB,12,yellow,On Track
+CYP,12,red,Moderately Increasing
+CZE,12,red,Stagnating
+DNK,12,red,Stagnating
+DJI,12,green,On Track
+DMA,12,grey,
+DOM,12,yellow,On Track
+ECU,12,yellow,On Track
+EGY,12,yellow,On Track
+SLV,12,yellow,On Track
+GNQ,12,grey,
+ERI,12,green,On Track
+EST,12,red,Stagnating
+SWZ,12,yellow,On Track
+ETH,12,green,On Track
+FJI,12,yellow,On Track
+FIN,12,orange,Stagnating
+FRA,12,red,Stagnating
+GAB,12,yellow,On Track
+GMB,12,green,On Track
+GEO,12,yellow,On Track
+DEU,12,red,Moderately Increasing
+GHA,12,green,On Track
+GRC,12,red,Stagnating
+GRD,12,grey,
+GTM,12,green,On Track
+GIN,12,green,On Track
+GNB,12,grey,
+GUY,12,orange,Stagnating
+HTI,12,green,On Track
+HND,12,green,On Track
+HUN,12,orange,Moderately Increasing
+ISL,12,red,Moderately Increasing
+IND,12,green,On Track
+IDN,12,yellow,On Track
+IRN,12,yellow,On Track
+IRQ,12,yellow,On Track
+IRL,12,red,Decreasing
+ISR,12,red,Stagnating
+ITA,12,orange,Moderately Increasing
+JAM,12,yellow,On Track
+JPN,12,red,Moderately Increasing
+JOR,12,yellow,On Track
+KAZ,12,orange,On Track
+KEN,12,green,On Track
+KIR,12,grey,
+PRK,12,green,On Track
+KOR,12,orange,Moderately Increasing
+KWT,12,red,Stagnating
+KGZ,12,green,On Track
+LAO,12,green,On Track
+LVA,12,red,Stagnating
+LBN,12,yellow,On Track
+LSO,12,green,On Track
+LBR,12,green,On Track
+LBY,12,orange,On Track
+LIE,12,grey,
+LTU,12,red,Stagnating
+LUX,12,red,Stagnating
+MDG,12,green,On Track
+MWI,12,green,On Track
+MYS,12,orange,Moderately Increasing
+MDV,12,orange,On Track
+MLI,12,yellow,Stagnating
+MLT,12,red,Moderately Increasing
+MHL,12,grey,
+MRT,12,yellow,Stagnating
+MUS,12,red,Moderately Increasing
+MEX,12,orange,On Track
+FSM,12,grey,
+MDA,12,orange,On Track
+MCO,12,grey,
+MNG,12,red,Stagnating
+MNE,12,red,Stagnating
+MAR,12,green,On Track
+MOZ,12,green,On Track
+MMR,12,green,On Track
+NAM,12,yellow,Moderately Increasing
+NRU,12,grey,
+NPL,12,green,On Track
+NLD,12,red,Moderately Increasing
+NZL,12,red,Decreasing
+NIC,12,yellow,On Track
+NER,12,green,On Track
+NGA,12,green,On Track
+MKD,12,orange,On Track
+NOR,12,red,Stagnating
+OMN,12,orange,On Track
+PAK,12,green,On Track
+PLW,12,grey,
+PAN,12,orange,On Track
+PNG,12,green,On Track
+PRY,12,orange,Stagnating
+PER,12,yellow,On Track
+PHL,12,green,On Track
+POL,12,orange,On Track
+PRT,12,red,Stagnating
+QAT,12,red,On Track
+ROU,12,orange,Stagnating
+RUS,12,orange,Moderately Increasing
+RWA,12,yellow,On Track
+WSM,12,green,On Track
+SMR,12,grey,
+STP,12,green,On Track
+SAU,12,orange,Moderately Increasing
+SEN,12,green,On Track
+SRB,12,orange,Moderately Increasing
+SYC,12,orange,Moderately Increasing
+SLE,12,green,On Track
+SGP,12,red,Stagnating
+SVK,12,orange,Moderately Increasing
+SVN,12,red,Moderately Increasing
+SLB,12,grey,
+SOM,12,green,On Track
+ZAF,12,yellow,On Track
+SSD,12,yellow,Stagnating
+ESP,12,orange,Stagnating
+LKA,12,yellow,On Track
+KNA,12,grey,
+LCA,12,grey,
+VCT,12,grey,
+SDN,12,yellow,Moderately Increasing
+SUR,12,yellow,On Track
+SWE,12,red,Moderately Increasing
+CHE,12,red,Moderately Increasing
+SYR,12,yellow,On Track
+TJK,12,green,On Track
+TZA,12,green,On Track
+THA,12,orange,On Track
+TLS,12,grey,
+TGO,12,green,On Track
+TON,12,grey,
+TTO,12,orange,On Track
+TUN,12,yellow,On Track
+TUR,12,red,On Track
+TKM,12,yellow,Stagnating
+TUV,12,grey,
+UGA,12,green,On Track
+UKR,12,yellow,On Track
+ARE,12,red,Stagnating
+GBR,12,orange,Moderately Increasing
+USA,12,red,Decreasing
+URY,12,red,Decreasing
+UZB,12,green,On Track
+VUT,12,green,On Track
+VEN,12,yellow,On Track
+VNM,12,yellow,On Track
+YEM,12,green,On Track
+ZMB,12,green,On Track
+ZWE,12,green,On Track
+AFG,13,green,On Track
+ALB,13,green,On Track
+DZA,13,orange,Moderately Increasing
+AND,13,yellow,Stagnating
+AGO,13,yellow,On Track
+ATG,13,yellow,Moderately Increasing
+ARG,13,yellow,On Track
+ARM,13,yellow,Stagnating
+AUS,13,red,Stagnating
+AUT,13,red,Moderately Increasing
+AZE,13,orange,Moderately Increasing
+BHS,13,red,Moderately Increasing
+BHR,13,red,Stagnating
+BGD,13,green,On Track
+BRB,13,yellow,Moderately Increasing
+BLR,13,red,Stagnating
+BEL,13,red,Stagnating
+BLZ,13,yellow,On Track
+BEN,13,green,On Track
+BTN,13,yellow,Stagnating
+BOL,13,yellow,On Track
+BIH,13,orange,Stagnating
+BWA,13,orange,Moderately Increasing
+BRA,13,yellow,On Track
+BRN,13,red,Decreasing
+BGR,13,orange,Stagnating
+BFA,13,green,On Track
+BDI,13,green,On Track
+CPV,13,green,On Track
+KHM,13,green,On Track
+CMR,13,yellow,On Track
+CAN,13,red,Moderately Increasing
+CAF,13,green,On Track
+TCD,13,green,On Track
+CHL,13,red,Stagnating
+CHN,13,yellow,Moderately Increasing
+COL,13,orange,On Track
+COM,13,green,On Track
+COD,13,green,On Track
+COG,13,yellow,On Track
+CRI,13,yellow,Moderately Increasing
+CIV,13,yellow,On Track
+HRV,13,red,Decreasing
+CUB,13,green,On Track
+CYP,13,red,Stagnating
+CZE,13,red,Stagnating
+DNK,13,red,Moderately Increasing
+DJI,13,yellow,Moderately Increasing
+DMA,13,green,On Track
+DOM,13,yellow,Moderately Increasing
+ECU,13,yellow,On Track
+EGY,13,yellow,On Track
+SLV,13,green,On Track
+GNQ,13,orange,Moderately Increasing
+ERI,13,green,On Track
+EST,13,red,Moderately Increasing
+SWZ,13,yellow,On Track
+ETH,13,green,On Track
+FJI,13,green,On Track
+FIN,13,red,Decreasing
+FRA,13,red,Moderately Increasing
+GAB,13,green,On Track
+GMB,13,green,On Track
+GEO,13,yellow,Decreasing
+DEU,13,red,Moderately Increasing
+GHA,13,yellow,On Track
+GRC,13,red,Moderately Increasing
+GRD,13,yellow,Stagnating
+GTM,13,green,On Track
+GIN,13,green,On Track
+GNB,13,green,On Track
+GUY,13,yellow,Stagnating
+HTI,13,green,On Track
+HND,13,green,On Track
+HUN,13,red,Stagnating
+ISL,13,red,Moderately Increasing
+IND,13,green,On Track
+IDN,13,yellow,Moderately Increasing
+IRN,13,orange,Stagnating
+IRQ,13,yellow,Moderately Increasing
+IRL,13,red,Moderately Increasing
+ISR,13,red,Moderately Increasing
+ITA,13,red,Moderately Increasing
+JAM,13,yellow,Moderately Increasing
+JPN,13,red,Moderately Increasing
+JOR,13,yellow,On Track
+KAZ,13,red,Moderately Increasing
+KEN,13,green,On Track
+KIR,13,green,On Track
+PRK,13,green,On Track
+KOR,13,red,Moderately Increasing
+KWT,13,red,Moderately Increasing
+KGZ,13,yellow,On Track
+LAO,13,yellow,Stagnating
+LVA,13,red,Stagnating
+LBN,13,orange,Moderately Increasing
+LSO,13,green,On Track
+LBR,13,green,On Track
+LBY,13,red,Stagnating
+LIE,13,grey,
+LTU,13,red,Decreasing
+LUX,13,red,Moderately Increasing
+MDG,13,green,On Track
+MWI,13,green,On Track
+MYS,13,orange,Stagnating
+MDV,13,yellow,Stagnating
+MLI,13,green,On Track
+MLT,13,orange,Moderately Increasing
+MHL,13,grey,
+MRT,13,green,On Track
+MUS,13,yellow,Stagnating
+MEX,13,orange,Moderately Increasing
+FSM,13,green,On Track
+MDA,13,yellow,Stagnating
+MCO,13,grey,
+MNG,13,red,Decreasing
+MNE,13,yellow,Stagnating
+MAR,13,green,On Track
+MOZ,13,yellow,On Track
+MMR,13,yellow,On Track
+NAM,13,yellow,On Track
+NRU,13,yellow,Stagnating
+NPL,13,green,On Track
+NLD,13,red,Moderately Increasing
+NZL,13,red,Moderately Increasing
+NIC,13,green,On Track
+NER,13,green,On Track
+NGA,13,yellow,On Track
+MKD,13,yellow,Decreasing
+NOR,13,red,Moderately Increasing
+OMN,13,red,Moderately Increasing
+PAK,13,green,On Track
+PLW,13,grey,
+PAN,13,orange,Stagnating
+PNG,13,green,On Track
+PRY,13,green,On Track
+PER,13,yellow,On Track
+PHL,13,yellow,On Track
+POL,13,red,Stagnating
+PRT,13,orange,Moderately Increasing
+QAT,13,red,Decreasing
+ROU,13,orange,Stagnating
+RUS,13,red,Moderately Increasing
+RWA,13,green,On Track
+WSM,13,green,On Track
+SMR,13,grey,
+STP,13,green,On Track
+SAU,13,red,Moderately Increasing
+SEN,13,green,On Track
+SRB,13,orange,Decreasing
+SYC,13,yellow,Stagnating
+SLE,13,green,On Track
+SGP,13,red,On Track
+SVK,13,red,Stagnating
+SVN,13,red,Stagnating
+SLB,13,green,On Track
+SOM,13,green,On Track
+ZAF,13,orange,Moderately Increasing
+SSD,13,green,On Track
+ESP,13,red,Moderately Increasing
+LKA,13,green,On Track
+KNA,13,yellow,Moderately Increasing
+LCA,13,yellow,On Track
+VCT,13,green,On Track
+SDN,13,green,On Track
+SUR,13,grey,
+SWE,13,red,Stagnating
+CHE,13,orange,Moderately Increasing
+SYR,13,green,On Track
+TJK,13,green,On Track
+TZA,13,green,On Track
+THA,13,orange,Stagnating
+TLS,13,grey,
+TGO,13,green,On Track
+TON,13,green,On Track
+TTO,13,grey,
+TUN,13,yellow,On Track
+TUR,13,red,Stagnating
+TKM,13,orange,Moderately Increasing
+TUV,13,green,On Track
+UGA,13,green,On Track
+UKR,13,yellow,Moderately Increasing
+ARE,13,red,Moderately Increasing
+GBR,13,red,Moderately Increasing
+USA,13,red,Stagnating
+URY,13,yellow,Stagnating
+UZB,13,yellow,Moderately Increasing
+VUT,13,green,On Track
+VEN,13,yellow,On Track
+VNM,13,yellow,Moderately Increasing
+YEM,13,green,On Track
+ZMB,13,green,On Track
+ZWE,13,yellow,Moderately Increasing
+AFG,14,grey,
+ALB,14,red,Stagnating
+DZA,14,orange,Stagnating
+AND,14,grey,
+AGO,14,orange,Stagnating
+ATG,14,red,Moderately Increasing
+ARG,14,red,Stagnating
+ARM,14,grey,
+AUS,14,orange,Moderately Increasing
+AUT,14,grey,
+AZE,14,grey,
+BHS,14,red,Moderately Increasing
+BHR,14,red,Stagnating
+BGD,14,red,Stagnating
+BRB,14,red,Moderately Increasing
+BLR,14,grey,
+BEL,14,red,Moderately Increasing
+BLZ,14,red,Stagnating
+BEN,14,red,Moderately Increasing
+BTN,14,grey,
+BOL,14,grey,
+BIH,14,yellow,Moderately Increasing
+BWA,14,grey,
+BRA,14,red,Stagnating
+BRN,14,red,Decreasing
+BGR,14,red,Moderately Increasing
+BFA,14,grey,
+BDI,14,grey,
+CPV,14,red,Stagnating
+KHM,14,red,Stagnating
+CMR,14,orange,Stagnating
+CAN,14,orange,Stagnating
+CAF,14,grey,
+TCD,14,grey,
+CHL,14,yellow,Moderately Increasing
+CHN,14,red,Stagnating
+COL,14,red,Stagnating
+COM,14,red,Stagnating
+COD,14,yellow,Moderately Increasing
+COG,14,orange,Moderately Increasing
+CRI,14,red,Stagnating
+CIV,14,red,Stagnating
+HRV,14,red,Moderately Increasing
+CUB,14,orange,Stagnating
+CYP,14,red,Moderately Increasing
+CZE,14,grey,
+DNK,14,orange,Stagnating
+DJI,14,red,Stagnating
+DMA,14,red,Moderately Increasing
+DOM,14,orange,Moderately Increasing
+ECU,14,orange,Moderately Increasing
+EGY,14,red,Stagnating
+SLV,14,red,Stagnating
+GNQ,14,orange,Moderately Increasing
+ERI,14,red,Moderately Increasing
+EST,14,orange,Moderately Increasing
+SWZ,14,grey,
+ETH,14,grey,
+FJI,14,orange,Stagnating
+FIN,14,orange,Moderately Increasing
+FRA,14,orange,Moderately Increasing
+GAB,14,red,Stagnating
+GMB,14,red,Stagnating
+GEO,14,red,Stagnating
+DEU,14,orange,Stagnating
+GHA,14,red,Stagnating
+GRC,14,red,Stagnating
+GRD,14,red,Moderately Increasing
+GTM,14,red,Stagnating
+GIN,14,red,Stagnating
+GNB,14,red,Moderately Increasing
+GUY,14,red,Stagnating
+HTI,14,red,Moderately Increasing
+HND,14,red,Stagnating
+HUN,14,grey,
+ISL,14,orange,Stagnating
+IND,14,red,Stagnating
+IDN,14,red,Stagnating
+IRN,14,orange,Moderately Increasing
+IRQ,14,red,Stagnating
+IRL,14,orange,Moderately Increasing
+ISR,14,red,Stagnating
+ITA,14,red,Stagnating
+JAM,14,red,Moderately Increasing
+JPN,14,red,Stagnating
+JOR,14,orange,Moderately Increasing
+KAZ,14,grey,
+KEN,14,red,Moderately Increasing
+KIR,14,orange,Moderately Increasing
+PRK,14,red,Stagnating
+KOR,14,red,Decreasing
+KWT,14,red,Stagnating
+KGZ,14,grey,
+LAO,14,grey,
+LVA,14,orange,Moderately Increasing
+LBN,14,red,Stagnating
+LSO,14,grey,
+LBR,14,orange,Moderately Increasing
+LBY,14,red,Stagnating
+LIE,14,grey,
+LTU,14,orange,Stagnating
+LUX,14,grey,
+MDG,14,red,Stagnating
+MWI,14,grey,
+MYS,14,red,Stagnating
+MDV,14,red,Moderately Increasing
+MLI,14,grey,
+MLT,14,red,Moderately Increasing
+MHL,14,red,Moderately Increasing
+MRT,14,red,Stagnating
+MUS,14,red,Stagnating
+MEX,14,red,Moderately Increasing
+FSM,14,red,Moderately Increasing
+MDA,14,grey,
+MCO,14,yellow,Moderately Increasing
+MNG,14,grey,
+MNE,14,red,Moderately Increasing
+MAR,14,red,Stagnating
+MOZ,14,orange,Stagnating
+MMR,14,red,Stagnating
+NAM,14,yellow,Moderately Increasing
+NRU,14,red,Moderately Increasing
+NPL,14,grey,
+NLD,14,red,Stagnating
+NZL,14,red,Decreasing
+NIC,14,red,Stagnating
+NER,14,grey,
+NGA,14,red,Stagnating
+MKD,14,grey,
+NOR,14,orange,Moderately Increasing
+OMN,14,red,Stagnating
+PAK,14,red,Moderately Increasing
+PLW,14,orange,Moderately Increasing
+PAN,14,red,Moderately Increasing
+PNG,14,red,Moderately Increasing
+PRY,14,grey,
+PER,14,red,Moderately Increasing
+PHL,14,red,Moderately Increasing
+POL,14,red,Stagnating
+PRT,14,red,Decreasing
+QAT,14,red,Moderately Increasing
+ROU,14,orange,Moderately Increasing
+RUS,14,red,Stagnating
+RWA,14,grey,
+WSM,14,orange,Stagnating
+SMR,14,yellow,On Track
+STP,14,orange,Stagnating
+SAU,14,red,Stagnating
+SEN,14,red,Moderately Increasing
+SRB,14,grey,
+SYC,14,yellow,Moderately Increasing
+SLE,14,red,Moderately Increasing
+SGP,14,red,Stagnating
+SVK,14,grey,
+SVN,14,red,Stagnating
+SLB,14,red,Moderately Increasing
+SOM,14,red,Stagnating
+ZAF,14,red,Stagnating
+SSD,14,grey,
+ESP,14,orange,Moderately Increasing
+LKA,14,red,Moderately Increasing
+KNA,14,red,Stagnating
+LCA,14,red,Decreasing
+VCT,14,red,Stagnating
+SDN,14,red,Moderately Increasing
+SUR,14,yellow,Stagnating
+SWE,14,red,Stagnating
+CHE,14,grey,
+SYR,14,red,Decreasing
+TJK,14,grey,
+TZA,14,red,Moderately Increasing
+THA,14,red,Stagnating
+TLS,14,orange,Moderately Increasing
+TGO,14,orange,Moderately Increasing
+TON,14,red,Moderately Increasing
+TTO,14,red,Stagnating
+TUN,14,red,Stagnating
+TUR,14,red,Stagnating
+TKM,14,grey,
+TUV,14,yellow,Moderately Increasing
+UGA,14,grey,
+UKR,14,red,Moderately Increasing
+ARE,14,red,Stagnating
+GBR,14,orange,Moderately Increasing
+USA,14,orange,Stagnating
+URY,14,red,Decreasing
+UZB,14,grey,
+VUT,14,red,Stagnating
+VEN,14,red,Moderately Increasing
+VNM,14,red,Stagnating
+YEM,14,red,Moderately Increasing
+ZMB,14,grey,
+ZWE,14,grey,
+AFG,15,red,Stagnating
+ALB,15,orange,Stagnating
+DZA,15,red,Moderately Increasing
+AND,15,orange,Moderately Increasing
+AGO,15,red,Stagnating
+ATG,15,orange,Stagnating
+ARG,15,red,Stagnating
+ARM,15,red,Stagnating
+AUS,15,red,Stagnating
+AUT,15,orange,Stagnating
+AZE,15,red,Moderately Increasing
+BHS,15,red,Stagnating
+BHR,15,red,Decreasing
+BGD,15,red,Decreasing
+BRB,15,orange,Decreasing
+BLR,15,red,Moderately Increasing
+BEL,15,orange,Moderately Increasing
+BLZ,15,red,Decreasing
+BEN,15,orange,Stagnating
+BTN,15,red,Stagnating
+BOL,15,red,Decreasing
+BIH,15,orange,Moderately Increasing
+BWA,15,red,Moderately Increasing
+BRA,15,red,Stagnating
+BRN,15,red,Stagnating
+BGR,15,yellow,On Track
+BFA,15,orange,Moderately Increasing
+BDI,15,orange,Decreasing
+CPV,15,orange,Moderately Increasing
+KHM,15,red,Moderately Increasing
+CMR,15,red,Decreasing
+CAN,15,red,Moderately Increasing
+CAF,15,yellow,Moderately Increasing
+TCD,15,orange,Stagnating
+CHL,15,red,Stagnating
+CHN,15,red,Stagnating
+COL,15,red,Stagnating
+COM,15,red,Stagnating
+COD,15,red,Stagnating
+COG,15,orange,Moderately Increasing
+CRI,15,red,Stagnating
+CIV,15,orange,Stagnating
+HRV,15,yellow,Stagnating
+CUB,15,red,Moderately Increasing
+CYP,15,orange,Moderately Increasing
+CZE,15,yellow,On Track
+DNK,15,yellow,On Track
+DJI,15,red,Decreasing
+DMA,15,red,Stagnating
+DOM,15,orange,Stagnating
+ECU,15,red,Stagnating
+EGY,15,red,Moderately Increasing
+SLV,15,orange,Stagnating
+GNQ,15,orange,Moderately Increasing
+ERI,15,red,Decreasing
+EST,15,green,On Track
+SWZ,15,orange,Stagnating
+ETH,15,red,Stagnating
+FJI,15,red,Stagnating
+FIN,15,orange,Moderately Increasing
+FRA,15,orange,Moderately Increasing
+GAB,15,orange,Moderately Increasing
+GMB,15,orange,Stagnating
+GEO,15,red,Stagnating
+DEU,15,orange,Moderately Increasing
+GHA,15,orange,Decreasing
+GRC,15,orange,Moderately Increasing
+GRD,15,red,Decreasing
+GTM,15,red,Stagnating
+GIN,15,orange,Stagnating
+GNB,15,red,Stagnating
+GUY,15,red,Stagnating
+HTI,15,red,Stagnating
+HND,15,red,Stagnating
+HUN,15,yellow,Stagnating
+ISL,15,red,Decreasing
+IND,15,red,Stagnating
+IDN,15,red,Stagnating
+IRN,15,red,Stagnating
+IRQ,15,red,Stagnating
+IRL,15,yellow,On Track
+ISR,15,red,Stagnating
+ITA,15,orange,Moderately Increasing
+JAM,15,red,Stagnating
+JPN,15,red,Stagnating
+JOR,15,red,Stagnating
+KAZ,15,red,Stagnating
+KEN,15,red,Stagnating
+KIR,15,grey,
+PRK,15,red,Moderately Increasing
+KOR,15,red,Stagnating
+KWT,15,red,Stagnating
+KGZ,15,red,Moderately Increasing
+LAO,15,red,Decreasing
+LVA,15,green,On Track
+LBN,15,red,Moderately Increasing
+LSO,15,orange,Moderately Increasing
+LBR,15,red,Stagnating
+LBY,15,orange,Moderately Increasing
+LIE,15,yellow,Moderately Increasing
+LTU,15,green,On Track
+LUX,15,red,Stagnating
+MDG,15,red,Stagnating
+MWI,15,orange,Decreasing
+MYS,15,red,Stagnating
+MDV,15,orange,Decreasing
+MLI,15,red,Stagnating
+MLT,15,yellow,Stagnating
+MHL,15,grey,
+MRT,15,red,Moderately Increasing
+MUS,15,red,Stagnating
+MEX,15,red,Decreasing
+FSM,15,red,Stagnating
+MDA,15,red,Moderately Increasing
+MCO,15,grey,
+MNG,15,red,Moderately Increasing
+MNE,15,red,Stagnating
+MAR,15,red,Stagnating
+MOZ,15,red,Stagnating
+MMR,15,red,Stagnating
+NAM,15,yellow,Moderately Increasing
+NRU,15,grey,
+NPL,15,red,Stagnating
+NLD,15,orange,On Track
+NZL,15,red,Stagnating
+NIC,15,orange,Stagnating
+NER,15,red,On Track
+NGA,15,orange,Decreasing
+MKD,15,orange,Moderately Increasing
+NOR,15,red,Moderately Increasing
+OMN,15,orange,Stagnating
+PAK,15,red,Stagnating
+PLW,15,red,Stagnating
+PAN,15,red,Decreasing
+PNG,15,orange,Stagnating
+PRY,15,red,Stagnating
+PER,15,red,Stagnating
+PHL,15,red,Stagnating
+POL,15,green,On Track
+PRT,15,orange,Stagnating
+QAT,15,orange,Decreasing
+ROU,15,orange,Stagnating
+RUS,15,red,Moderately Increasing
+RWA,15,red,Decreasing
+WSM,15,red,Decreasing
+SMR,15,grey,
+STP,15,orange,Decreasing
+SAU,15,red,Stagnating
+SEN,15,red,Stagnating
+SRB,15,red,Moderately Increasing
+SYC,15,red,Moderately Increasing
+SLE,15,red,Stagnating
+SGP,15,red,Decreasing
+SVK,15,yellow,On Track
+SVN,15,orange,Moderately Increasing
+SLB,15,red,Stagnating
+SOM,15,red,Decreasing
+ZAF,15,red,Stagnating
+SSD,15,red,Moderately Increasing
+ESP,15,red,Stagnating
+LKA,15,red,Stagnating
+KNA,15,red,Moderately Increasing
+LCA,15,orange,Stagnating
+VCT,15,red,Stagnating
+SDN,15,red,Moderately Increasing
+SUR,15,red,Stagnating
+SWE,15,red,Moderately Increasing
+CHE,15,red,Moderately Increasing
+SYR,15,red,Stagnating
+TJK,15,red,Moderately Increasing
+TZA,15,red,Stagnating
+THA,15,red,Stagnating
+TLS,15,orange,Stagnating
+TGO,15,orange,Decreasing
+TON,15,grey,
+TTO,15,red,Stagnating
+TUN,15,red,Moderately Increasing
+TUR,15,red,Stagnating
+TKM,15,red,Moderately Increasing
+TUV,15,grey,
+UGA,15,red,Stagnating
+UKR,15,red,Moderately Increasing
+ARE,15,red,Stagnating
+GBR,15,yellow,On Track
+USA,15,red,Stagnating
+URY,15,red,Stagnating
+UZB,15,red,Moderately Increasing
+VUT,15,red,Stagnating
+VEN,15,red,Stagnating
+VNM,15,red,Stagnating
+YEM,15,red,Decreasing
+ZMB,15,red,Decreasing
+ZWE,15,orange,Stagnating
+AFG,16,red,Stagnating
+ALB,16,orange,Stagnating
+DZA,16,orange,Moderately Increasing
+AND,16,orange,Stagnating
+AGO,16,red,Moderately Increasing
+ATG,16,grey,
+ARG,16,red,Moderately Increasing
+ARM,16,orange,Moderately Increasing
+AUS,16,yellow,Moderately Increasing
+AUT,16,yellow,Moderately Increasing
+AZE,16,red,Stagnating
+BHS,16,red,Stagnating
+BHR,16,orange,Stagnating
+BGD,16,red,Stagnating
+BRB,16,red,Stagnating
+BLR,16,orange,Moderately Increasing
+BEL,16,yellow,Moderately Increasing
+BLZ,16,red,Moderately Increasing
+BEN,16,red,Moderately Increasing
+BTN,16,yellow,Moderately Increasing
+BOL,16,red,Stagnating
+BIH,16,orange,Moderately Increasing
+BWA,16,red,Moderately Increasing
+BRA,16,red,Moderately Increasing
+BRN,16,orange,Stagnating
+BGR,16,orange,Moderately Increasing
+BFA,16,red,Stagnating
+BDI,16,red,Moderately Increasing
+CPV,16,orange,On Track
+KHM,16,red,Moderately Increasing
+CMR,16,red,Stagnating
+CAN,16,yellow,Moderately Increasing
+CAF,16,red,Decreasing
+TCD,16,red,Stagnating
+CHL,16,orange,Stagnating
+CHN,16,orange,Moderately Increasing
+COL,16,red,Stagnating
+COM,16,red,Decreasing
+COD,16,red,Stagnating
+COG,16,red,Decreasing
+CRI,16,red,Moderately Increasing
+CIV,16,red,Moderately Increasing
+HRV,16,orange,Moderately Increasing
+CUB,16,red,Stagnating
+CYP,16,yellow,Moderately Increasing
+CZE,16,yellow,Moderately Increasing
+DNK,16,yellow,Moderately Increasing
+DJI,16,red,Stagnating
+DMA,16,red,Stagnating
+DOM,16,red,Moderately Increasing
+ECU,16,red,Stagnating
+EGY,16,red,Moderately Increasing
+SLV,16,red,Moderately Increasing
+GNQ,16,grey,
+ERI,16,grey,
+EST,16,orange,Moderately Increasing
+SWZ,16,red,Stagnating
+ETH,16,red,Stagnating
+FJI,16,yellow,Moderately Increasing
+FIN,16,yellow,Moderately Increasing
+FRA,16,orange,Moderately Increasing
+GAB,16,red,Decreasing
+GMB,16,red,On Track
+GEO,16,yellow,Moderately Increasing
+DEU,16,yellow,On Track
+GHA,16,red,Stagnating
+GRC,16,yellow,Moderately Increasing
+GRD,16,orange,Decreasing
+GTM,16,red,Stagnating
+GIN,16,red,Decreasing
+GNB,16,red,Stagnating
+GUY,16,red,Moderately Increasing
+HTI,16,red,Stagnating
+HND,16,red,Stagnating
+HUN,16,orange,Moderately Increasing
+ISL,16,green,On Track
+IND,16,red,Stagnating
+IDN,16,red,Moderately Increasing
+IRN,16,red,Stagnating
+IRQ,16,red,Stagnating
+IRL,16,yellow,On Track
+ISR,16,orange,Moderately Increasing
+ITA,16,yellow,On Track
+JAM,16,orange,Stagnating
+JPN,16,green,On Track
+JOR,16,orange,Moderately Increasing
+KAZ,16,red,Moderately Increasing
+KEN,16,red,Stagnating
+KIR,16,red,
+PRK,16,red,Stagnating
+KOR,16,yellow,Moderately Increasing
+KWT,16,orange,Stagnating
+KGZ,16,red,Stagnating
+LAO,16,red,Stagnating
+LVA,16,yellow,On Track
+LBN,16,red,Stagnating
+LSO,16,red,Decreasing
+LBR,16,red,Stagnating
+LBY,16,red,Stagnating
+LIE,16,yellow,Moderately Increasing
+LTU,16,orange,On Track
+LUX,16,yellow,Moderately Increasing
+MDG,16,red,Stagnating
+MWI,16,red,Moderately Increasing
+MYS,16,orange,Moderately Increasing
+MDV,16,orange,Moderately Increasing
+MLI,16,red,Stagnating
+MLT,16,yellow,Stagnating
+MHL,16,grey,
+MRT,16,red,Stagnating
+MUS,16,orange,Moderately Increasing
+MEX,16,red,Decreasing
+FSM,16,grey,
+MDA,16,orange,Moderately Increasing
+MCO,16,grey,
+MNG,16,red,Stagnating
+MNE,16,orange,Stagnating
+MAR,16,orange,Moderately Increasing
+MOZ,16,red,Decreasing
+MMR,16,red,Decreasing
+NAM,16,red,Stagnating
+NRU,16,grey,
+NPL,16,red,Stagnating
+NLD,16,orange,On Track
+NZL,16,orange,Moderately Increasing
+NIC,16,red,Stagnating
+NER,16,red,Stagnating
+NGA,16,red,Stagnating
+MKD,16,orange,Moderately Increasing
+NOR,16,yellow,On Track
+OMN,16,orange,Moderately Increasing
+PAK,16,red,Moderately Increasing
+PLW,16,grey,
+PAN,16,red,Moderately Increasing
+PNG,16,red,Moderately Increasing
+PRY,16,red,Stagnating
+PER,16,red,Stagnating
+PHL,16,red,Moderately Increasing
+POL,16,yellow,Moderately Increasing
+PRT,16,yellow,On Track
+QAT,16,orange,Moderately Increasing
+ROU,16,orange,Moderately Increasing
+RUS,16,red,Moderately Increasing
+RWA,16,red,Stagnating
+WSM,16,red,On Track
+SMR,16,grey,
+STP,16,orange,Stagnating
+SAU,16,orange,Stagnating
+SEN,16,orange,Moderately Increasing
+SRB,16,orange,Moderately Increasing
+SYC,16,orange,Moderately Increasing
+SLE,16,red,Stagnating
+SGP,16,orange,Moderately Increasing
+SVK,16,orange,Moderately Increasing
+SVN,16,yellow,Moderately Increasing
+SLB,16,orange,Stagnating
+SOM,16,red,Stagnating
+ZAF,16,red,Stagnating
+SSD,16,red,Decreasing
+ESP,16,yellow,Moderately Increasing
+LKA,16,red,Stagnating
+KNA,16,grey,
+LCA,16,red,Stagnating
+VCT,16,red,Moderately Increasing
+SDN,16,red,Moderately Increasing
+SUR,16,red,Moderately Increasing
+SWE,16,yellow,On Track
+CHE,16,orange,Moderately Increasing
+SYR,16,red,Stagnating
+TJK,16,red,Stagnating
+TZA,16,red,Moderately Increasing
+THA,16,red,Stagnating
+TLS,16,red,On Track
+TGO,16,red,Stagnating
+TON,16,orange,On Track
+TTO,16,red,Stagnating
+TUN,16,red,Moderately Increasing
+TUR,16,red,Stagnating
+TKM,16,red,Stagnating
+TUV,16,grey,
+UGA,16,red,Stagnating
+UKR,16,red,Moderately Increasing
+ARE,16,orange,Moderately Increasing
+GBR,16,orange,Moderately Increasing
+USA,16,red,Moderately Increasing
+URY,16,orange,Moderately Increasing
+UZB,16,red,Moderately Increasing
+VUT,16,red,
+VEN,16,red,Stagnating
+VNM,16,red,Moderately Increasing
+YEM,16,red,Stagnating
+ZMB,16,red,Decreasing
+ZWE,16,red,Stagnating
+AFG,17,red,Moderately Increasing
+ALB,17,yellow,Moderately Increasing
+DZA,17,yellow,On Track
+AND,17,grey,
+AGO,17,orange,Stagnating
+ATG,17,grey,
+ARG,17,orange,Moderately Increasing
+ARM,17,orange,Stagnating
+AUS,17,orange,Moderately Increasing
+AUT,17,red,Moderately Increasing
+AZE,17,orange,Moderately Increasing
+BHS,17,orange,Moderately Increasing
+BHR,17,grey,
+BGD,17,red,Stagnating
+BRB,17,grey,
+BLR,17,yellow,Moderately Increasing
+BEL,17,orange,Moderately Increasing
+BLZ,17,yellow,On Track
+BEN,17,red,Stagnating
+BTN,17,orange,Moderately Increasing
+BOL,17,orange,On Track
+BIH,17,yellow,On Track
+BWA,17,yellow,On Track
+BRA,17,yellow,Stagnating
+BRN,17,grey,
+BGR,17,yellow,Moderately Increasing
+BFA,17,orange,Moderately Increasing
+BDI,17,orange,Decreasing
+CPV,17,orange,Stagnating
+KHM,17,orange,Stagnating
+CMR,17,red,Stagnating
+CAN,17,red,Moderately Increasing
+CAF,17,red,Stagnating
+TCD,17,red,Stagnating
+CHL,17,yellow,On Track
+CHN,17,orange,Stagnating
+COL,17,orange,Moderately Increasing
+COM,17,grey,
+COD,17,red,Decreasing
+COG,17,red,Stagnating
+CRI,17,orange,Moderately Increasing
+CIV,17,red,Stagnating
+HRV,17,orange,Stagnating
+CUB,17,grey,
+CYP,17,red,Moderately Increasing
+CZE,17,red,Moderately Increasing
+DNK,17,yellow,On Track
+DJI,17,red,Stagnating
+DMA,17,grey,
+DOM,17,orange,Stagnating
+ECU,17,yellow,Stagnating
+EGY,17,orange,Decreasing
+SLV,17,yellow,Moderately Increasing
+GNQ,17,orange,Decreasing
+ERI,17,grey,
+EST,17,orange,Moderately Increasing
+SWZ,17,orange,Moderately Increasing
+ETH,17,orange,Stagnating
+FJI,17,orange,Stagnating
+FIN,17,orange,Moderately Increasing
+FRA,17,orange,On Track
+GAB,17,red,Stagnating
+GMB,17,red,Stagnating
+GEO,17,orange,Moderately Increasing
+DEU,17,yellow,On Track
+GHA,17,orange,Stagnating
+GRC,17,orange,Stagnating
+GRD,17,grey,
+GTM,17,orange,Stagnating
+GIN,17,red,Stagnating
+GNB,17,red,Stagnating
+GUY,17,orange,Moderately Increasing
+HTI,17,red,Stagnating
+HND,17,orange,Stagnating
+HUN,17,orange,Moderately Increasing
+ISL,17,red,Moderately Increasing
+IND,17,red,Stagnating
+IDN,17,red,Stagnating
+IRN,17,orange,Moderately Increasing
+IRQ,17,yellow,Stagnating
+IRL,17,red,Stagnating
+ISR,17,red,Moderately Increasing
+ITA,17,orange,Moderately Increasing
+JAM,17,yellow,Moderately Increasing
+JPN,17,red,Moderately Increasing
+JOR,17,orange,Stagnating
+KAZ,17,red,Stagnating
+KEN,17,orange,Decreasing
+KIR,17,yellow,Moderately Increasing
+PRK,17,grey,
+KOR,17,red,Moderately Increasing
+KWT,17,yellow,On Track
+KGZ,17,yellow,Decreasing
+LAO,17,orange,Moderately Increasing
+LVA,17,red,Stagnating
+LBN,17,orange,On Track
+LSO,17,yellow,Moderately Increasing
+LBR,17,red,Stagnating
+LBY,17,orange,Decreasing
+LIE,17,grey,
+LTU,17,orange,Stagnating
+LUX,17,red,Moderately Increasing
+MDG,17,red,Stagnating
+MWI,17,orange,Decreasing
+MYS,17,orange,Stagnating
+MDV,17,orange,Moderately Increasing
+MLI,17,red,Stagnating
+MLT,17,orange,Moderately Increasing
+MHL,17,orange,Moderately Increasing
+MRT,17,red,Moderately Increasing
+MUS,17,orange,Moderately Increasing
+MEX,17,orange,Stagnating
+FSM,17,orange,Moderately Increasing
+MDA,17,yellow,Moderately Increasing
+MCO,17,grey,
+MNG,17,yellow,On Track
+MNE,17,grey,
+MAR,17,orange,Stagnating
+MOZ,17,orange,Moderately Increasing
+MMR,17,red,Stagnating
+NAM,17,yellow,Moderately Increasing
+NRU,17,grey,
+NPL,17,orange,Moderately Increasing
+NLD,17,red,Stagnating
+NZL,17,red,Moderately Increasing
+NIC,17,orange,Moderately Increasing
+NER,17,orange,Stagnating
+NGA,17,grey,
+MKD,17,yellow,Moderately Increasing
+NOR,17,green,On Track
+OMN,17,yellow,Moderately Increasing
+PAK,17,orange,Stagnating
+PLW,17,grey,
+PAN,17,red,Moderately Increasing
+PNG,17,red,Moderately Increasing
+PRY,17,orange,Stagnating
+PER,17,orange,Moderately Increasing
+PHL,17,orange,Stagnating
+POL,17,red,Moderately Increasing
+PRT,17,orange,Moderately Increasing
+QAT,17,grey,
+ROU,17,yellow,Moderately Increasing
+RUS,17,yellow,On Track
+RWA,17,orange,Moderately Increasing
+WSM,17,yellow,Moderately Increasing
+SMR,17,grey,
+STP,17,orange,Stagnating
+SAU,17,orange,Moderately Increasing
+SEN,17,orange,Stagnating
+SRB,17,yellow,Moderately Increasing
+SYC,17,orange,Stagnating
+SLE,17,yellow,On Track
+SGP,17,red,Moderately Increasing
+SVK,17,orange,Stagnating
+SVN,17,orange,Moderately Increasing
+SLB,17,orange,Moderately Increasing
+SOM,17,red,Moderately Increasing
+ZAF,17,yellow,Moderately Increasing
+SSD,17,red,Stagnating
+ESP,17,orange,Moderately Increasing
+LKA,17,red,Stagnating
+KNA,17,grey,
+LCA,17,orange,Decreasing
+VCT,17,orange,Moderately Increasing
+SDN,17,red,Stagnating
+SUR,17,yellow,On Track
+SWE,17,yellow,On Track
+CHE,17,red,Stagnating
+SYR,17,orange,Moderately Increasing
+TJK,17,orange,Moderately Increasing
+TZA,17,red,Stagnating
+THA,17,orange,Decreasing
+TLS,17,yellow,On Track
+TGO,17,orange,Stagnating
+TON,17,grey,
+TTO,17,orange,Stagnating
+TUN,17,yellow,Moderately Increasing
+TUR,17,orange,On Track
+TKM,17,red,Stagnating
+TUV,17,grey,
+UGA,17,red,Stagnating
+UKR,17,yellow,Moderately Increasing
+ARE,17,orange,Stagnating
+GBR,17,red,Moderately Increasing
+USA,17,red,Moderately Increasing
+URY,17,yellow,Moderately Increasing
+UZB,17,orange,Stagnating
+VUT,17,red,Stagnating
+VEN,17,red,Decreasing
+VNM,17,orange,Moderately Increasing
+YEM,17,orange,Decreasing
+ZMB,17,orange,Stagnating
+ZWE,17,red,Stagnating

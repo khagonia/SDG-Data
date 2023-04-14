@@ -1,0 +1,194 @@
+iso3,country,index_score,index_rank,spillover_score,spillover_rank,region
+AFG,Afghanistan,52.5,147,99.4,11,E. Europe & C. Asia
+ALB,Albania,71.6,61,93.6,87,E. Europe & C. Asia
+DZA,Algeria,71.5,64,97.4,51,MENA
+AND,Andorra,,,,,E. Europe & C. Asia
+AGO,Angola,50.9,154,97.2,56,Sub-Saharan Africa
+ATG,Antigua and Barbuda,,,,,LAC
+ARG,Argentina,72.8,54,95.9,68,LAC
+ARM,Armenia,71.1,66,95.9,67,E. Europe & C. Asia
+AUS,Australia,75.6,38,64.9,141,OECD
+AUT,Austria,82.3,5,59.4,151,OECD
+AZE,Azerbaijan,73.5,50,97.3,52,E. Europe & C. Asia
+BHS,"Bahamas, The",,,,,LAC
+BHR,Bahrain,64.3,102,79,119,MENA
+BGD,Bangladesh,64.2,104,97.9,38,East & South Asia
+BRB,Barbados,70.3,73,87.9,106,LAC
+BLR,Belarus,76,34,84.5,114,E. Europe & C. Asia
+BEL,Belgium,79.7,18,54,156,OECD
+BLZ,Belize,65.7,100,91,98,LAC
+BEN,Benin,51.2,153,98.5,35,Sub-Saharan Africa
+BTN,Bhutan,70.5,70,93.4,89,East & South Asia
+BOL,Bolivia,68,90,97.8,41,LAC
+BIH,Bosnia and Herzegovina,71.7,59,91.6,95,E. Europe & C. Asia
+BWA,Botswana,61.4,116,85.2,112,Sub-Saharan Africa
+BRA,Brazil,72.8,53,97.8,42,LAC
+BRN,Brunei Darussalam,67.1,93,67.3,133,East & South Asia
+BGR,Bulgaria,74.3,42,88.2,105,E. Europe & C. Asia
+BFA,Burkina Faso,54.5,138,99.2,16,Sub-Saharan Africa
+BDI,Burundi,54.1,141,99.8,2,Sub-Saharan Africa
+CPV,Cabo Verde,,,,,Sub-Saharan Africa
+KHM,Cambodia,63.8,107,97.6,47,East & South Asia
+CMR,Cameroon,55.5,134,99.2,18,Sub-Saharan Africa
+CAN,Canada,77.7,29,65,140,OECD
+CAF,Central African Republic,39.3,162,99.3,15,Sub-Saharan Africa
+TCD,Chad,41.3,161,99.5,6,Sub-Saharan Africa
+CHL,Chile,77.8,28,90.7,99,OECD
+CHN,China,72.4,56,94.8,76,East & South Asia
+COL,Colombia,70.1,75,96.2,65,OECD
+COM,Comoros,,,,,Sub-Saharan Africa
+COD,"Congo, Dem. Rep.",50,157,99.4,10,Sub-Saharan Africa
+COG,"Congo, Rep.",52.3,148,97.2,54,Sub-Saharan Africa
+CRI,Costa Rica,73.8,47,80.9,117,OECD
+CIV,Cote d'Ivoire,58.4,127,98.9,28,Sub-Saharan Africa
+HRV,Croatia,78.8,23,76.4,121,E. Europe & C. Asia
+CUB,Cuba,74.7,40,97,58,LAC
+CYP,Cyprus,74.2,43,63,144,E. Europe & C. Asia
+CZE,Czech Republic,80.5,13,67.6,132,OECD
+DNK,Denmark,85.6,2,66.2,137,OECD
+DJI,Djibouti,50.3,155,89.4,103,Sub-Saharan Africa
+DMA,Dominica,,,,,LAC
+DOM,Dominican Republic,70.8,68,93.7,84,LAC
+ECU,Ecuador,71.5,63,97.2,57,LAC
+EGY,"Egypt, Arab Rep.",68.7,87,98.8,30,MENA
+SLV,El Salvador,69.6,79,89.3,104,LAC
+GNQ,Equatorial Guinea,,,,,Sub-Saharan Africa
+ERI,Eritrea,,,,,Sub-Saharan Africa
+EST,Estonia,80.6,10,63.6,143,OECD
+SWZ,Eswatini,54.6,137,91.9,94,Sub-Saharan Africa
+ETH,Ethiopia,58,128,99.2,21,Sub-Saharan Africa
+FJI,Fiji,72.9,52,95.8,69,Oceania
+FIN,Finland,86.5,1,73.6,124,OECD
+FRA,France,81.2,7,57.8,154,OECD
+GAB,Gabon,62.8,113,92.8,91,Sub-Saharan Africa
+GMB,"Gambia, The",60.2,122,96.6,61,Sub-Saharan Africa
+GEO,Georgia,73.4,51,93.7,85,E. Europe & C. Asia
+DEU,Germany,82.2,6,60.7,149,OECD
+GHA,Ghana,63.4,110,97,59,Sub-Saharan Africa
+GRC,Greece,76.8,32,72.8,126,OECD
+GRD,Grenada,,,,,LAC
+GTM,Guatemala,61,117,87.4,107,LAC
+GIN,Guinea,51.3,152,98.9,27,Sub-Saharan Africa
+GNB,Guinea-Bissau,,,,,Sub-Saharan Africa
+GUY,Guyana,63.9,106,50,159,LAC
+HTI,Haiti,51.9,151,99.2,17,LAC
+HND,Honduras,63.1,112,94.5,79,LAC
+HUN,Hungary,79,21,80.9,115,OECD
+ISL,Iceland,78.9,22,51.4,158,OECD
+IND,India,60.3,121,99.3,13,East & South Asia
+IDN,Indonesia,69.2,82,97.6,48,East & South Asia
+IRN,"Iran, Islamic Rep.",68.6,88,97.6,45,MENA
+IRQ,Iraq,62.3,115,97.3,53,MENA
+IRL,Ireland,80.7,9,61.2,147,OECD
+ISR,Israel,73.5,49,62.2,145,OECD
+ITA,Italy,78.3,25,73.6,125,OECD
+JAM,Jamaica,69,83,91.9,93,LAC
+JPN,Japan,79.6,19,67.3,134,OECD
+JOR,Jordan,69.4,80,92,92,MENA
+KAZ,Kazakhstan,71.1,65,93.5,88,E. Europe & C. Asia
+KEN,Kenya,61,118,95.3,74,Sub-Saharan Africa
+KIR,Kiribati,,,,,Oceania
+PRK,"Korea, Dem. Rep.",,,,,East & South Asia
+KOR,"Korea, Rep.",77.9,27,74.1,123,OECD
+KWT,Kuwait,64.5,101,60.3,150,MENA
+KGZ,Kyrgyz Republic,73.7,48,96.7,60,E. Europe & C. Asia
+LAO,Lao PDR,63.4,111,90.2,101,East & South Asia
+LVA,Latvia,80.3,14,67.7,130,OECD
+LBN,Lebanon,66.3,97,85.2,113,MENA
+LSO,Lesotho,55.1,135,97.9,39,Sub-Saharan Africa
+LBR,Liberia,49.9,158,97.4,49,Sub-Saharan Africa
+LBY,Libya,,,,,MENA
+LIE,Liechtenstein,,,,,E. Europe & C. Asia
+LTU,Lithuania,75.4,39,58.2,153,OECD
+LUX,Luxembourg,75.7,36,35.6,162,OECD
+MDG,Madagascar,50.1,156,99.6,3,Sub-Saharan Africa
+MWI,Malawi,53.3,145,99.2,20,Sub-Saharan Africa
+MYS,Malaysia,70.4,72,79.2,118,East & South Asia
+MDV,Maldives,71,67,94.8,77,East & South Asia
+MLI,Mali,54.1,142,99.3,14,Sub-Saharan Africa
+MLT,Malta,76.8,33,66.1,138,E. Europe & C. Asia
+MHL,Marshall Islands,,,,,Oceania
+MRT,Mauritania,55.8,132,97.7,44,Sub-Saharan Africa
+MUS,Mauritius,68.4,89,54.3,155,Sub-Saharan Africa
+MEX,Mexico,70.2,74,93.9,83,OECD
+FSM,"Micronesia, Fed. Sts.",,,,,Oceania
+MDA,Moldova,73.9,46,95.5,70,E. Europe & C. Asia
+MCO,Monaco,,,,,E. Europe & C. Asia
+MNG,Mongolia,63.5,109,94,81,East & South Asia
+MNE,Montenegro,68.8,86,74.6,122,E. Europe & C. Asia
+MAR,Morocco,69,84,97.4,50,MENA
+MOZ,Mozambique,53.6,143,99,25,Sub-Saharan Africa
+MMR,Myanmar,64.3,103,99.2,19,East & South Asia
+NAM,Namibia,62.7,114,90.1,102,Sub-Saharan Africa
+NRU,Nauru,,,,,Oceania
+NPL,Nepal,66.2,98,98.5,33,East & South Asia
+NLD,Netherlands,79.9,17,44.4,160,OECD
+NZL,New Zealand,78.3,26,67.2,135,OECD
+NIC,Nicaragua,67.1,92,96.3,64,LAC
+NER,Niger,52.2,149,99.1,22,Sub-Saharan Africa
+NGA,Nigeria,54.2,139,98.8,29,Sub-Saharan Africa
+MKD,North Macedonia,72.3,57,91.6,96,E. Europe & C. Asia
+NOR,Norway,82.3,4,61.7,146,OECD
+OMN,Oman,69.2,81,85.7,109,MENA
+PAK,Pakistan,59.3,125,99.4,8,East & South Asia
+PLW,Palau,,,,,Oceania
+PAN,Panama,64,105,69.2,128,LAC
+PNG,Papua New Guinea,53.6,144,97.7,43,Oceania
+PRY,Paraguay,67.4,91,95.1,75,LAC
+PER,Peru,71.9,58,96.5,62,LAC
+PHL,Philippines,66.6,95,97.2,55,East & South Asia
+POL,Poland,80.5,12,80.9,116,OECD
+PRT,Portugal,79.2,20,69.1,129,OECD
+QAT,Qatar,66.8,94,67.7,131,MENA
+ROU,Romania,77.7,30,90.5,100,E. Europe & C. Asia
+RUS,Russian Federation,74.1,45,85.4,111,E. Europe & C. Asia
+RWA,Rwanda,59.4,124,98.9,26,Sub-Saharan Africa
+WSM,Samoa,,,,,Oceania
+SMR,San Marino,,,,,E. Europe & C. Asia
+STP,Sao Tome and Principe,59.4,123,97.9,40,Sub-Saharan Africa
+SAU,Saudi Arabia,66.6,96,76.5,120,MENA
+SEN,Senegal,58.7,126,98.7,31,Sub-Saharan Africa
+SRB,Serbia,75.9,35,85.6,110,E. Europe & C. Asia
+SYC,Seychelles,,,,,Sub-Saharan Africa
+SLE,Sierra Leone,53,146,99.5,7,Sub-Saharan Africa
+SGP,Singapore,71.7,60,33,163,East & South Asia
+SVK,Slovak Republic,78.7,24,72.5,127,OECD
+SVN,Slovenia,80,15,60.9,148,OECD
+SLB,Solomon Islands,,,,,Oceania
+SOM,Somalia,45.6,160,100,1,Sub-Saharan Africa
+ZAF,South Africa,63.7,108,91,97,Sub-Saharan Africa
+SSD,South Sudan,39,163,99.5,5,Sub-Saharan Africa
+ESP,Spain,79.9,16,66.9,136,OECD
+LKA,Sri Lanka,70,76,93.6,86,East & South Asia
+KNA,St. Kitts and Nevis,,,,,LAC
+LCA,St. Lucia,,,,,LAC
+VCT,St. Vincent and the Grenadines,,,,,LAC
+SDN,Sudan,49.6,159,99.5,4,Sub-Saharan Africa
+SUR,Suriname,71.6,62,96.4,63,LAC
+SWE,Sweden,85.2,3,65.7,139,OECD
+CHE,Switzerland,80.8,8,52.1,157,OECD
+SYR,Syrian Arab Republic,57.4,129,99.1,23,MENA
+TJK,Tajikistan,69.7,78,98.6,32,E. Europe & C. Asia
+TZA,Tanzania,57.4,130,98.5,34,Sub-Saharan Africa
+THA,Thailand,74.1,44,86.7,108,East & South Asia
+TLS,Timor-Leste,,,,,East & South Asia
+TGO,Togo,55.6,133,99.1,24,Sub-Saharan Africa
+TON,Tonga,,,,,Oceania
+TTO,Trinidad and Tobago,60.4,119,95.5,71,LAC
+TUN,Tunisia,70.7,69,93.9,82,MENA
+TUR,Turkey,70.4,71,94.5,78,OECD
+TKM,Turkmenistan,66.1,99,94.1,80,E. Europe & C. Asia
+TUV,Tuvalu,,,,,Oceania
+UGA,Uganda,54.9,136,99.3,12,Sub-Saharan Africa
+UKR,Ukraine,75.7,37,96,66,E. Europe & C. Asia
+ARE,United Arab Emirates,68.8,85,42.3,161,MENA
+GBR,United Kingdom,80.6,11,59.2,152,OECD
+USA,United States,74.6,41,64.4,142,OECD
+URY,Uruguay,77,31,93,90,LAC
+UZB,Uzbekistan,69.9,77,98.4,36,E. Europe & C. Asia
+VUT,Vanuatu,,,,,Oceania
+VEN,"Venezuela, RB",60.3,120,97.6,46,LAC
+VNM,Vietnam,72.8,55,95.3,73,East & South Asia
+YEM,"Yemen, Rep.",52.1,150,99.4,9,MENA
+ZMB,Zambia,54.2,140,98.2,37,Sub-Saharan Africa
+ZWE,Zimbabwe,56.8,131,95.4,72,Sub-Saharan Africa
